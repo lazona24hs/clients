@@ -75,7 +75,7 @@ https://channels.stratusnex.workers.dev/cnne.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="19" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" tvg-id="America.ar",America TV
-https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-chno="20" group-title="Abierto" tvg-logo="https://i.imgur.com/5zn3GRi.png" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
@@ -486,14 +486,13 @@ http://45.188.229.33:8000/play/a0wb/index.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Entretenimiento",Estrella TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-chno="178" group-title="Internacional" tvg-logo="https://i.ibb.co/nqgp93Vg/0910.jpg" tvg-id="",Latina
-#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="179" group-title="Internacional" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
-#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-
-http://45.188.229.33:8000/play/a1jl/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png",Imagen Television
 http://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-chno="181" group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="NTN24NuestraTeleNoticias.ar",NTN 24 Horas
@@ -857,10 +856,10 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
-#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="",StarChannel
