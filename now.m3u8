@@ -850,13 +850,7 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-#KODIPROP:inputstream.adaptive.license_type=com.widevine
-#KODIPROP:inputstream.adaptive.license_key=41e493b3b6c94edea44cbcfa797a777e:1d0c16feb149be530da47a598f36a51d
-#KODIPROP:inputstream.adaptive.license_key=5c6199d8586f57a48b0a42be7ea0a116:901d086f3ce540ea1d88b35321d7f205
-#KODIPROP:inputstream.adaptive.license_key=246e7d3a7f19592b891243776e6cbb7b:67d8067fcf839bfade39b807465722cd
-#KODIPROP:inputstream.adaptive.license_key=bea86f5cb3f057538f34a917f9908997:8761b7076dcae76906b08547511ea8d7
-#KODIPROP:inputstream.adaptive.license_key=5f65c4f0c8235c57a46085cc7a779432:a9ab6419446a6ac7d53671ba91be5413
-https://1160-aws.vrioott.com/v1/6fb5e5cb97ca48e081801face3e9d433/manifest.mpd?hdnts=exp%3D1769945679%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3D80a01ebe5d1eda2c14ca951394ce265c0ae27b4d0d4405427222df6c5531694b&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000211&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
+https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
 #
 #
 #
