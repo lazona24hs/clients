@@ -33,7 +33,8 @@ https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="29.1" group-title="Digital" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
 https://channels.stratusnex.workers.dev/diputadostv.m3u8
-
+#EXTINF:-1 tvg-chno="315" tvg-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png" group-title="Digital",TV Amor
+https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 http://rough-dream-f561.stratusnex.workers.dev/eventos.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
@@ -825,8 +826,7 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTINF:-1 tvg-chno="314" group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" tvg-id="61a52615cbef2500072876e2",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
-#EXTINF:-1 tvg-chno="315" tvg-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png" group-title="PlutoTV",TV Amor
-https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
+
 #EXTINF:-1 tvg-chno="316" tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="PlutoTV",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="PlutoTV",Obsesión por los Autos
