@@ -854,6 +854,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="",StarChannel
+https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 
 #
 #
