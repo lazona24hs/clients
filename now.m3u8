@@ -312,6 +312,8 @@ http://181.209.105.115:2525/play/hbomondi/index.m3u8
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
 http://181.209.105.115:2525/play/hbofamily/index.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
+#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
 https://cyberuno.cdn.rcs.net.ar/mnp/sony/output.mpd
@@ -853,8 +855,12 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
+#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="",StarChannel
+#EXTVLCOPT:http-referrer=https://cablered.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 
 #
