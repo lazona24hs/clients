@@ -850,7 +850,11 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+
 #
 #
 #
