@@ -486,8 +486,13 @@ http://45.188.229.33:8000/play/a0wb/index.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Entretenimiento",Estrella TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-chno="178" group-title="Internacional" tvg-logo="https://i.ibb.co/nqgp93Vg/0910.jpg" tvg-id="",Latina
-http://45.188.229.33:8000/play/a0v2/index.m3u8
+#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="179" group-title="Internacional" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
+#EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+
 http://45.188.229.33:8000/play/a1jl/index.m3u8
 #EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png",Imagen Television
 http://igd-it-runtime.otteravision.com/igd/it/it.m3u8
