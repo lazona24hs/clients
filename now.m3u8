@@ -179,6 +179,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
 #EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Deportes",Fox Sports 2
 http://45.188.229.33:8000/play/a1ae/index.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Deportes",DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/6071/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
