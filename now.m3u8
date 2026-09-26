@@ -426,7 +426,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Regionales", Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Regionales", Canal 4 Jujuy
-http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGNSAen_i1aJd71cI2qFDrH0/m3u8
+#EXTVLCOPT:http-referrer=https://5cd577a3dd8ec.streamlock.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Regionales", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Regionales", Canal22WEB
