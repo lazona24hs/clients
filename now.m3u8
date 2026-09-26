@@ -316,6 +316,8 @@ http://181.209.105.115:2525/play/hbofamily/index.m3u8
 #EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="160" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="Entretenimiento",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
 https://cyberuno.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-chno="112" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" tvg-id="SonyMovies.ar",Sony Movies
@@ -425,10 +427,7 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Regionales", Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Regionales", Canal 4 Jujuy
-#EXTVLCOPT:http-referrer=https://5cd577a3dd8ec.streamlock.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#160
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Regionales", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Regionales", Canal22WEB
