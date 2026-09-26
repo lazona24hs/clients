@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2449277,FRAME-RATE=30,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b2206590896ab829a46a026&sid=ba5t1l1xb221012420806ab829a469ff8&ndvc=1
+#EXT-X-STREAM-INF:BANDWIDTH=1511378,FRAME-RATE=30,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2206590896ab829a46a026&sid=ba5t1l1xb221012420806ab829a469ff8&ndvc=1
+#EXT-X-STREAM-INF:BANDWIDTH=730390,FRAME-RATE=30,RESOLUTION=854x480,CODECS="avc1.64001f,mp4a.40.2"
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream2/chunks.m3u8?dpssid=b2206590896ab829a46a026&sid=ba5t1l1xb221012420806ab829a469ff8&ndvc=1
+#EXT-X-STREAM-INF:BANDWIDTH=345433,FRAME-RATE=30,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2"
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream3/chunks.m3u8?dpssid=b2206590896ab829a46a026&sid=ba5t1l1xb221012420806ab829a469ff8&ndvc=1
