@@ -35,6 +35,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://channels.stratusnex.workers.dev/diputadostv.m3u8
 #EXTINF:-1 tvg-chno="315" tvg-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png" group-title="Digital",TV Amor
 https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
+#EXTINF:-1 tvg-chno="30.1" group-title="Digital" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="", Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://zipstream.stratusnex.workers.dev/canaluno/live.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
