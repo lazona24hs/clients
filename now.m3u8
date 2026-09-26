@@ -530,7 +530,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-chno="195" group-title="Internacional" tvg-logo="https://images.open-epg.com/x935.png" tvg-id="Antena3.ar",Antena3
-http://190.211.172.203:4000/play/a0xe/index.m3u8
+http://45.188.229.33:8000/play/a0x3/index.m3u8
 
 #EXTINF:-1 tvg-chno="197" tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella News
 https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
