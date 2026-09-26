@@ -481,7 +481,7 @@ http://45.188.229.33:8000/play/a0uy/index.m3u8
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="177" tvg-id="A3Series.uy" tvg-logo="https://i.ibb.co/QF230yLz/0618.jpg" group-title="Internacional", A3Series
-http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGNarbEv1PHnRkWUe-O0OmRg/m3u8
+http://190.211.172.203:4000/play/a0ue/index.m3u8
 #EXTINF:-1 tvg-chno="196" group-title="Entretenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" tvg-id="EuropaEuropa.ar",Europa Europa
 https://cyberuno.cdn.rcs.net.ar/mnp/europa/output.mpd
 #EXTINF:-1 tvg-chno="333" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/BV1xk9ps/0858.jpg" tvg-id="",Claro Cinema
