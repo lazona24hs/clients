@@ -651,7 +651,7 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 #EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
 https://live881.videxhd.sbs/latamplay/dsports2/index.m3u8?api=1234
 #EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
-http://45.188.229.33:8000/play/a1iw/index.m3u8
+https://live91.videxhd.sbs/latamplay/dsports/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 https://cyberuno.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
