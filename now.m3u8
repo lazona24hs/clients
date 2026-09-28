@@ -69,7 +69,7 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-http://45.179.152.42:8000/play/a016
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
 
 #EXTINF:-1 tvg-chno="25" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
 https://cyberuno.cdn.rcs.net.ar/mnp/ip/output.mpd
