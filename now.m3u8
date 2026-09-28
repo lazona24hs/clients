@@ -68,7 +68,7 @@ https://cdn.sensa.com.ar/output/ARR4/TelefeRosarioD/playlist.m3u8?|referer=https
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
 
 #EXTINF:-1 tvg-chno="25" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
-https://access.cdn.rcs.net.ar/mnp/ip/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-chno="26" group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -314,7 +314,9 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/filmsarts/output.mpd
 #EXTINF:-1 tvg-chno="107" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/eent/output.mpd
 #EXTINF:-1 tvg-chno="108" tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
-http://45.188.229.33:8000/play/a12r/index.m3u8
+#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
 http://45.188.229.33:8000/play/a1cz/index.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-id="HBOSignature.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature522766870392762345.png" group-title="Entretenimiento" group-logo="",HBO Signature
