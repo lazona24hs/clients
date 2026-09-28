@@ -59,10 +59,10 @@ http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/152.0.0.0 Safari/537.36 
-https://cdn.sensa.com.ar/output/ARR4/TelefeRosarioD/playlist.m3u8?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
+#EXTINF:-1 tvg-chno="22.1" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="",Telefe Rosario
+https://channels.stratusnex.workers.dev/teleferosario.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
+http://195.178.110.110/telefe/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
@@ -149,7 +149,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://channels.stratusnex.workers.dev/eltrece.m3u8
 #EXTINF:-1 tvg-chno="21.1" group-title="Digital" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
-#EXTINF:-1 tvg-chno="22.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
+#EXTINF:-1 tvg-chno="220.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
 https://channels.stratusnex.workers.dev/teleferosario.m3u8
 #EXTINF:-1 tvg-chno="23.1" group-title="Digital" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://channels.stratusnex.workers.dev/qmtv.m3u8
@@ -159,7 +159,7 @@ https://cyberuno.cdn.rcs.net.ar/hub/eloncetv/hls/1920x1080.m3u8
 https://channels.stratusnex.workers.dev/canal8sanjuan.m3u8
 #EXTINF:-1 tvg-chno="30.1" group-title="Digital" tvg-logo="https://i.imgur.com/vn6ORHB.png" tvg-id="", Canal 10 Tucuman
 https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
-#EXTINF:-1 tvg-chno="28.1" group-title="Digital" tvg-logo="",
+#EXTINF:-1 tvg-chno="280.1" group-title="Digital" tvg-logo="",
 http://
 #EXTINF:-1 tvg-chno="29.1" group-title="Digital" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
 https://channels.stratusnex.workers.dev/diputadostv.m3u8
@@ -474,8 +474,7 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/el13/output.mpd
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Regionales", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-chno="173" group-title="Regionales" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-http://195.178.110.110/telefe/index.m3u8
+
 #EXTINF:-1 tvg-chno="174"  tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-id="" group-title="Regionales", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Regionales", Canal 3 Pinamar
