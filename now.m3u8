@@ -30,7 +30,7 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cm/output.mpd
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
-https://cyberuno.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
+https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-de-la-ciudad-ar.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
@@ -60,7 +60,10 @@ https://cyberuno.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
-https://channels.stratusnex.workers.dev/teleferosario.m3u8
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
@@ -149,9 +152,7 @@ https://channels.stratusnex.workers.dev/eltrece.m3u8
 #EXTINF:-1 tvg-chno="21.1" group-title="Digital" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 tvg-chno="22.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+https://channels.stratusnex.workers.dev/teleferosario.m3u8
 #EXTINF:-1 tvg-chno="23.1" group-title="Digital" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://channels.stratusnex.workers.dev/qmtv.m3u8
 #EXTINF:-1 tvg-chno="17.1" group-title="Digital" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 11 Entre Ríos
