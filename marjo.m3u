@@ -247,6 +247,8 @@ https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234&utf=1
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="DIGITAL",DeporTV
 http://45.188.229.33:8000/play/a1cq/index.m3u8
+#EXTINF:-1 tvg-chno="66.1" group-title="DIGITAL" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/50840213?height=200&with=200" tvg-id="TyCSports2.ar",TyC Sports 2
+https://cyberuno.cdn.rcs.net.ar/mnp/tycsport2/output.mpd
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="DIGITAL",AM Sports
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/amsports/output.mpd
 #EXTINF:-1 tvg-chno="325" group-title="DIGITAL" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
