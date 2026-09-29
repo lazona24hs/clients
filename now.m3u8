@@ -218,6 +218,8 @@ http://200.35.176.154:8000/play/a04l
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="Deportes" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="TyCSports.ar",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8|referer=https://play.tycsports.com/
+#EXTINF:-1 tvg-chno="66.1" group-title="Deportes" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/50840213?height=200&with=200" tvg-id="TyCSports2.ar",TyC Sports 2
+https://cyberuno.cdn.rcs.net.ar/mnp/tycsport2/output.mpd
 #EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-sports-ar.png" tvg-id="",TNT Sport - Chile
 https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="Deportes",Sportv
