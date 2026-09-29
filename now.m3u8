@@ -877,12 +877,13 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"33ded37fefaa6c3d6878e0d555dfaffd":"9e024c10af20f240a1ea35b94d147f28"} 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=5dcaeaa309c8d828c7731c7877158a92:423e96f5f1199b026cbab4a7521e0591
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar
+https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 
 #EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
