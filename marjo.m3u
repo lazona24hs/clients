@@ -416,11 +416,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="DIGITAL",TNT Novelas
 https://cyberuno.cdn.rcs.net.ar/mnp/t8xqrnk00000253cu7nwb24ejzgzxj9d/output.mpd
 #EXTINF:-1 tvg-chno="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="DIGITAL",TNT Series
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"613a3dc25b1d3ed4186e2a399ac7f081":"7b5cf1cf7aeda446359bbcd23b5771b6"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/ys5dsbmbhj0n00000246u0bv0ntrqybu/output.mpd
 #EXTINF:-1 tvg-chno="124" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-chno="125" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
