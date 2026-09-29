@@ -226,6 +226,17 @@ http://190.8.174.155:80/SPORTV/playlist.m3u8
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/golf/output.mpd
 #EXTINF:-1 tvg-chno="320" tvg-id="66997d18a1b69e00082ee85f" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png" group-title="Deportes",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno="540" tvg-id="Bein Sports extra ñ" tvg-logo="https://i.ibb.co/HpLnftJs/Picsart-25-10-26-21-20-12-346.webp" group-title="Deportes", Bein Sports extra ñ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-chno="541" tvg-id="0441" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" group-title="Deportes",VIX TUDN 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=0c5e6c0820a1ea28753721db00272411&keyid=763ce1ebcaf23502c8cf357c6ef423e1
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
 https://canalluz7.canalluz.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
@@ -322,19 +333,19 @@ https://cyberuno.cdn.rcs.net.ar/mnp/eent/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
-http://45.188.229.33:8000/play/a1cz/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-chno="342" tvg-id="HBOSignature.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature522766870392762345.png" group-title="Entretenimiento" group-logo="",HBO Signature
-http://181.209.105.115:2525/play/hbosignature/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-chno="343" tvg-id="HBOXtreme.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme11082935970382369340.png" group-title="Entretenimiento" group-logo="",HBO Xtreme
-http://181.209.105.115:2525/play/hboxtreme/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1 tvg-chno="344" tvg-id="HBOPlus.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hboplus1428396294149288788.png" group-title="Entretenimiento" group-logo="",HBO +
-http://181.209.105.115:2525/play/hboplus/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-chno="345" tvg-id="HBOPop.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="Entretenimiento" group-logo="",HBO POP
-http://45.188.229.33:8000/play/a139/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 tvg-chno="346" tvg-id="HBOMundi.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento" group-logo="",HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
-http://181.209.105.115:2525/play/hbofamily/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 #EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -366,9 +377,9 @@ https://canales-premiu.elmanuchale.workers.dev/tlnovelas/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
-http://45.188.229.33:8000/play/a12u/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/t8xqrnk00000253cu7nwb24ejzgzxj9d/output.mpd
 #EXTINF:-1 tvg-chno="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
-http://45.188.229.33:8000/play/a1cv/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/ys5dsbmbhj0n00000246u0bv0ntrqybu/output.mpd
 #EXTINF:-1 tvg-chno="124" group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-chno="125" group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
