@@ -877,7 +877,7 @@ http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="182" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TeleSUR.ar",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="338" group-title="DIGITAL" tvg-logo="https://i.ibb.co/zT6yrz4J/0105.jpg" tvg-id="", Mega
-http://45.188.229.33:8000/play/a0tr/index.m3u8
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="183" group-title="DIGITAL" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="Chilevisión.cl",CHV
 http://45.188.229.33:8000/play/a135/index.m3u8
 #EXTINF:-1 tvg-chno="184" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNChile.uy",TVN
