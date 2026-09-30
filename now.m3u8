@@ -925,7 +925,9 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="", Cronica [ Clone ]
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8572796d68a74a4099285892ab23d00b:6c7d9d39cc7ec361ba850eca79524bd1
+https://apps.playme.com.ar/dash/CH_CRONICA/playlist.mpd
 
 #
 #
