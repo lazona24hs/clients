@@ -26,7 +26,9 @@ http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTINF:-1 tvg-chno="5" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://45.188.229.33:8000/play/a0x2/index.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/somos-pergamino-ar.png" tvg-id="SomosRosario.ar",Somos Rosario 
-http://181.209.105.115:2525/play/evento/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_C/Somos_Rosario.mpd
 #EXTINF:-1 tvg-chno="7" group-title="DIGITAL" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="DIGITAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
