@@ -245,12 +245,6 @@ http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
 
-#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/h0sFN_bK9VXxjOK-Ko1k3w?tags=CH_LOGO" group-title="DIGITAL",KZO 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36","Referer":"https://portal.app.flow.com.ar/","Origin":"https://portal.app.flow.com.ar/","x-nebu":"nebu"}
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|origin=https://portal.app.flow.com.ar
-
 #EXTINF:-1 tvg-chno="23.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://channels.stratusnex.workers.dev/qmtv.m3u8
 #EXTINF:-1 tvg-chno="17.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 11 Entre Ríos
@@ -265,12 +259,7 @@ https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36","Referer":"https://portal.app.flow.com.ar/","Origin":"https://portal.app.flow.com.ar/","x-nebu":"nebu"}
 http://vps-4729499-x.dattaweb.com/flo/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-chno="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"83404a1a63bad8a1d21aabf89f6436cc":"b4ce534c34911e703ffc780653bb2a78"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
-
+https://channels.stratusnex.workers.dev/diputadostv.m3u8
 #EXTINF:-1 tvg-chno="18.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Y7ebRp4.png" tvg-id="", Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="15.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png",GenTV 
