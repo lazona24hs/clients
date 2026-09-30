@@ -26,9 +26,7 @@ http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTINF:-1 tvg-chno="5" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://45.188.229.33:8000/play/a0x2/index.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/somos-pergamino-ar.png" tvg-id="SomosRosario.ar",Somos Rosario 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
-https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_C/Somos_Rosario.mpd
+http://181.209.105.115:2525/play/evento/index.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="DIGITAL" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="DIGITAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
@@ -249,10 +247,10 @@ https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
 
 #EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/h0sFN_bK9VXxjOK-Ko1k3w?tags=CH_LOGO" group-title="DIGITAL",KZO 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"71c9374566b0b5517083bc923175969a":"56292911445ae704f390669ec5d7faa7"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36","Referer":"https://portal.app.flow.com.ar/","Origin":"https://portal.app.flow.com.ar/","x-nebu":"nebu"}
+http://vps-4729499-x.dattaweb.com/flo/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|origin=https://portal.app.flow.com.ar
+
 #EXTINF:-1 tvg-chno="23.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://channels.stratusnex.workers.dev/qmtv.m3u8
 #EXTINF:-1 tvg-chno="17.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 11 Entre Ríos
@@ -262,11 +260,10 @@ https://channels.stratusnex.workers.dev/canal8sanjuan.m3u8
 #EXTINF:-1 tvg-chno="30.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/vn6ORHB.png" tvg-id="", Canal 10 Tucuman
 https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 #EXTINF:-1 tvg-id="MixTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmixtv.png" group-title="DIGITAL",Mix TV 
-#KODIPROP:inputstream.adaptive.license_key=65d71143cb18b78e179cee85f858d5dd:24eddb4521a6b36f7770d6a4f2d907ee
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36","Referer":"https://portal.app.flow.com.ar/","Origin":"https://portal.app.flow.com.ar/","x-nebu":"nebu"}
+http://vps-4729499-x.dattaweb.com/flo/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-chno="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"83404a1a63bad8a1d21aabf89f6436cc":"b4ce534c34911e703ffc780653bb2a78"}
@@ -1270,8 +1267,12 @@ http://45.70.221.206/LN_OTT/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="", Cronica [ Clone ]
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-chno="0.3" group-title="" tvg-logo="" tvg-id="", Test [ Clone ]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36","Referer":"https://portal.app.flow.com.ar/","Origin":"https://portal.app.flow.com.ar/","x-nebu":"nebu"}
+http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|origin=https://portal.app.flow.com.ar
+
 
 #
 #
