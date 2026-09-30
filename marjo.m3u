@@ -13,11 +13,11 @@
 #EXTINF:-1 tvg-chno="1" group-title="DIGITAL" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://zipstream.stratusnex.workers.dev/canaluno/live.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"30040b6c7b723aee251c0dc3c4f4d84c":"c8d60a61d2d9d2acd4040a21da4d2203"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=44f6be58841f0c96cd347e97d57b0fdb&keyid=08a77a5784c0318845b3292939099ad3
+https://cdn.sensa.com.ar/live/sta01/Metro/live_dash_cld/Metro.mpd
 #EXTINF:-1 tvg-chno="3" group-title="DIGITAL" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
@@ -32,11 +32,11 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="DIGITAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="DIGITAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36bc52ea68831dbbec6a9529bc81a9e8:39858817235ad0c15640dbde56f87d78
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/Magazine/SA_Live_dash_enc//Magazine.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=014771c4a91db80e96f038ec0acfc304&key=e37fa696265923a6082de157662aab73
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
 #EXTINF:-1 tvg-chno="10" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
@@ -50,17 +50,17 @@ https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/to
 #EXTINF:-1 tvg-chno="13" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-26-ar.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3561945a15a88603aee20ea15c605d6c":"7a1676bb6cc6cbb328f41626d8084594"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=a002010b506854599dffbb8b9048ec7c&key=160eedf85229da919a7c5eec4fbef809
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 #EXTINF:-1 tvg-chno="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ef98ad3a4a5b9f6edae885e8bf450d3c":"861873c6c69eb66df0afc3034a02a796"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTINF:-1 tvg-chno="16" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tn-todo-noticias-ar.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -74,16 +74,17 @@ https://channels.stratusnex.workers.dev/cnne.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 #EXTINF:-1 tvg-chno="19" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" tvg-id="America.ar",America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d7afc43dab940d699b61466b245369f:712b5165ff990156e6c9e580b0b4df59
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f
+https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 #EXTINF:-1 tvg-chno="20" group-title="DIGITAL" tvg-logo="https://i.imgur.com/5zn3GRi.png" tvg-id="TVPublica.ar",TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6b17538810f1dd4485f174dcc204872c&key=3d5b973772433ce07c8999aa659ea48c
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTINF:-1 tvg-chno="21" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
 http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
@@ -98,25 +99,25 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 #EXTINF:-1 tvg-chno="23" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69d08ad795092fc59dbdfb194424dd92:a73948b44e9292eede50c0c654301860
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #EXTINF:-1 tvg-chno="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ddf62bf44e68f06a6adb810199df713:2ace15b4ffbe70940fdf04cf97e114e7
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=7c1f50e3f51216bdd1efcc99d3a27217&key=3441c930277d824402aafee446ba8f90
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 #EXTINF:-1 tvg-chno="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"723d8d918d61cee1f708ec849b6498a2":"b4b48cfccc1cddcc73bc7a7df46cb531"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=34f254be5f3d6a8ab44c28b4cb2e5a4a&keyid=61635507689b4c74568928cc0f5d82d9
+https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd
 
 #EXTINF:-1 tvg-chno="26" group-title="DIGITAL" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -160,11 +161,12 @@ https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/to
 #EXTINF:-1 tvg-chno="35" group-title="DIGITAL" tvg-logo="https://canal3salta.com.ar/src/images/logo250x250.webp" tvg-id="",Canal 3 Salta
 https://ututotv.com.ar/live/stream.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="Encuentro.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="DIGITAL",Encuentro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e166b20d99713a42e42bfe91c7330b:413a0665d266bcc76a706ccfce2a2410
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=9e6bc6cd9b600238f89d75ffb02cb852&key=f102949aa16d1a741d0fa30dc60f9cbd
+https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd
+
 #EXTINF:-1 tvg-chno="37" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-rural-ar.png" tvg-id="CanalRural.ar",Rural
 https://cyberuno.cdn.rcs.net.ar/mnp/rural/output.mpd
 #EXTINF:-1 tvg-chno="38" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
@@ -276,11 +278,11 @@ http://45.188.229.33:8000/play/a18u/index.m3u8
 #EXTINF:-1 tvg-chno="55" group-title="DIGITAL" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="DIGITAL",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d079ffa3757e8335611fc48be6ba47ff":"05059d1cb21b6708a55e9c26fb38e2f3"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="DIGITAL",Fox Sports
 http://45.188.229.33:8000/play/a1cp/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="DIGITAL",ESPN 2
@@ -314,11 +316,11 @@ http://45.188.229.33:8000/play/a1cq/index.m3u8
 #EXTINF:-1 tvg-chno="66.1" group-title="DIGITAL" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/50840213?height=200&with=200" tvg-id="TyCSports2.ar",TyC Sports 2
 https://cyberuno.cdn.rcs.net.ar/mnp/tycsport2/output.mpd
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="DIGITAL",AM Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3269536fedc69cba1e0281ff62cc4eb9:5246eedf4e7af3771f80899db667dede 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=f9a70c294ea75346b991a61c55ff1d8f&key=7012eb6cd752998ee5cfbe68517491f5
+https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 #EXTINF:-1 tvg-chno="325" group-title="DIGITAL" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="326" group-title="DIGITAL" tvg-logo="https://i.imgur.com/YlGh0Qk.png" tvg-id="PxSports.ar", PX Sports
@@ -336,11 +338,11 @@ https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="DIGITAL",Sportv
 http://190.8.174.155:80/SPORTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.imgur.com/35enUz3.png" tvg-name="Golf Channel" group-title="DIGITAL",Golf Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdd337296e43e69aefee1bbc4f04e663:d9883167d78827a0ec24dae99e03a3e2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=be71d8107de961319fc6a47d9f1c79ad&key=02071a1c9846318c60480d4086be8e9b
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 #EXTINF:-1 tvg-chno="320" tvg-id="66997d18a1b69e00082ee85f" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png" group-title="DIGITAL",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="0441" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" group-title="DIGITAL",VIX TUDN 
@@ -369,56 +371,48 @@ http://45.188.229.33:8000/play/a1f1/index.m3u8
 #EXTINF:-1 tvg-chno="71" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26769_dark_360w_270h.png" tvg-id="AdultSwim.ar",Adult Swim
 https://cyberuno.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 tvg-chno="72" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" tvg-id="BabyTv.ar",Baby TV
-#KODIPROP:inputstream.adaptive.license_key=b6cc8d4a7959bcc18413927f1a498a7c:195b94d2ff3357e93d24e296c39b4326
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=5cf6da7262ddb74c2f370ded6056f46c&key=78109125565ab1747f511f7e77e3bbaf
+https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
 #EXTINF:-1 tvg-chno="73" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_white_360w_270h.png" tvg-id="NickJr.ar",Nick Jr
-#KODIPROP:inputstream.adaptive.license_key=8e1fb2b59b9d83c11466cb54b31928e2:3bf19e8d8956daca91daffb746f08bb1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=040efb4ac8008085d09c17db602b24fa&key=1940b88114de13d460cb196326e638a7
+https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
 #EXTINF:-1 tvg-chno="74" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-id="Nickelodeon.ar",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_key=89a6be32a372255475c03d910be1eae8:4446ac987204570bbebb8ee5a4945903
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd
+
 #EXTINF:-1 tvg-chno="75" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" tvg-id="PakaPaka.ar",Pakapaka
-#KODIPROP:inputstream.adaptive.license_key=e9c421a7f205ca08e62ebe3ca40e3433:65fa197dc2f472739c1d84fcb5f880cf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=b767babf86cd94bb854084213c0ff47c&key=04847c6299cd7b48ebda927e957c167c
+https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
 #EXTINF:-1 tvg-chno="490" tvg-name="Clan" tvg-logo="https://i.imgur.com/UmI7uUs.png" group-title="DIGITAL",Clan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 #EXTINF:-1 tvg-chno="76" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_light_360w_270h.png" tvg-id="CartoonNetwork.ar",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_key=e77eb4ef8dc7ad8191dc71d04f8fc3b3:b4f9398a9261d11fcd6018acffab94d1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
+
 #EXTINF:-1 tvg-chno="77" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DiscoveryKids.ar",Discovery Kids
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a2c846ad90eb65c697b31e1b0728b53:9cc6907a95fe0c4241a7103f25650f64
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=4d8b3220ac30e5c8148d4bcc225efa5a&key=eb6918dfe117fc405396a9c3986a0450
+https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
 #EXTINF:-1 tvg-chno="78" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_gray_360w_270h.png" tvg-id="DisneyChannel.ar",Disney Channel
-#KODIPROP:inputstream.adaptive.license_key=138981ed5f75527232593af4c92c9007:0f05c78bd7e8bc3e9e0f708c1424f34b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=70d91b14935a3599f02e5dab71ef21dc&key=803e9152e9daf717b772399a97802076
+https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
 #EXTINF:-1 tvg-chno="79" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-id="DisneyJunior.ar",Disney Junior
-#KODIPROP:inputstream.adaptive.license_key=632429cd9963a76f90951145da4b22e6:bcc852793cf3f85a1e0acd0509853e47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=18654944953b25a8b6392722a83db653&key=40bf6a9f05bbf0e06715ed5707f0edd2
+https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
 #EXTINF:-1 tvg-chno="80" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-chno="81" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" tvg-id="Tooncast.ar" ,Tooncast
@@ -428,11 +422,11 @@ https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
 #EXTINF:-1 tvg-chno="82" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" tvg-id="Cartoonito.ar",Cartoonito
-#KODIPROP:inputstream.adaptive.license_key=db0e97e96205d545471ac982444cf3e3:90b8bf6d1c8cf8761f75470f182e3dd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=cf15d5a0f9329f815779d4a7dd760fbc&key=cd00a8a3f6a167954d4f678fab2323da
+https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/cinepo/lgartwork/Logo.png" group-title="DIGITAL",Cinepolis Channel
 https://channels.stratusnex.workers.dev/cinepolis.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="DIGITAL",Filmelier TV
@@ -511,11 +505,11 @@ https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/to
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
 #EXTINF:-1 tvg-chno="102" tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="DIGITAL",Discovery Turbo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0f55ecc6486bcae9fd3f53271fc16ad8":"eeb7df5969fc58b5771f2f3bc7502ad5"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5
+https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd
 #EXTINF:-1 tvg-chno="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="DIGITAL",Discovery World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31e4b8ab99b5a7bd7812834701825dd9:fe9e6e8c22b0d33baaae895b9d0317aa
@@ -727,11 +721,11 @@ https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/to
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
 #EXTINF:-1 tvg-chno="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c0e2d5650551523ee94db5dc1a8a13d4":"d555f25b35d8f32cf9efab28c24ca1ba"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6f85d8282bb6fe2db8f34299d5742f02&key=28d49f409d718ecad8f82f477d3beb77
+https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
 #EXTINF:-1 tvg-chno="136" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
 http://181.224.200.5:2277/play/4324/index.m3u8
 #EXTINF:-1 tvg-chno="137" group-title="DIGITAL" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
