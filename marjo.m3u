@@ -1256,9 +1256,7 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17b3ea5b07979f719c9c1f29c566a04d:b7eee6522ad1abbcee2c096d55d1c175
-https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5ODY2NzI0Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTgyZGQ2ZGRiZTMwMzQxZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.mFM4MMd6tMCFXoP-z3TeSCUXWVpBbSymmZUCb5WxNxDLNERVScFJ9-3Bic80iA9P86hqZB1MFIaU44vF40uvWg==/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+http://45.70.221.206/LN_OTT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="0.2" group-title="" tvg-logo="" tvg-id="",AXN
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
