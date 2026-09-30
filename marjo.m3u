@@ -190,7 +190,8 @@ https://cdn.sensa.com.ar/live/eds/CanalA/live_dash_cld/CanalA.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=7a7ecf0c34695dd4e253574b0b85441e&key=e6518e0b5dfa5e0dc268a5b16106811b
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd#EXTINF:-1 tvg-chno="41" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/bq29sfg1017235205063962896.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
+#EXTINF:-1 tvg-chno="41" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/bq29sfg1017235205063962896.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.sensa.com.ar/output/SMT6/C10MPH/playlist.m3u8
