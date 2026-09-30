@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay.xml.gz, https://www.open-epg.com/files/argentina.xml.gz, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://stratusnex.com.ar"
+#EXTM3U url-tvg="https://www.open-epg.com/files/chile1.xml.gz, https://www.open-epg.com/files/uruguay.xml.gz, https://www.open-epg.com/files/argentina.xml.gz, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://stratusnex.com.ar"
 # ZIPTV
 # Canales: 340
 # Grupo: ZipTV
