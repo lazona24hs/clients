@@ -70,7 +70,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 https://channels.stratusnex.workers.dev/cnne.m3u8
 
 #EXTINF:-1 tvg-chno="18" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
-http://45.134.141.161:2200/ARG/A24/index.m3u8
+http://181.209.38.115:8000/play/a002/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="19" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" tvg-id="America.ar",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -297,13 +297,9 @@ https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="DIGITAL",Fox Sports
 http://45.188.229.33:8000/play/a1cp/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="DIGITAL",ESPN 2
-http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
+http://45.188.229.33:8000/play/a138/index.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="DIGITAL",ESPN 3
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=MWRkNGU4YTgtNTg1OC0zODgyLWE4ZTItMTRmZThjMDM1ZjZm
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+http://45.188.229.33:8000/play/a12v/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="DIGITAL",ESPN 4
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
