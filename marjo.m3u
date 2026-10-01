@@ -142,6 +142,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="CN23.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
+#EXTINF:-1 tvg-chno="670" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="DIGITAL", Canal 4 Jujuy
+#EXTVLCOPT:http-user-agent=Android
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="30" group-title="DIGITAL" tvg-logo="https://i.imgur.com/ThZvP3q.png",TDC Firmat
