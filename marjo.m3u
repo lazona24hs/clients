@@ -156,7 +156,7 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="480" group-title="DIGITAL" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
 https://stratusnex.intinet.com.ar/channels/alphatv.m3u8
 #EXTINF:-1 tvg-chno="481" group-title="DIGITAL" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
-https://cyberuno.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tecnopolis/output.mpd
 #EXTINF:-1 tvg-chno="33" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
