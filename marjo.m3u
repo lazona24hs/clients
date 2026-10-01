@@ -70,7 +70,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 https://channels.stratusnex.workers.dev/cnne.m3u8
 
 #EXTINF:-1 tvg-chno="18" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
-http://181.209.38.115:8000/play/a002/index.m3u8?tokens&stratusnex
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-chno="19" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" tvg-id="America.ar",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
