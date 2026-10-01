@@ -27,7 +27,9 @@ http://45.188.229.33:8000/play/a0w9/index.m3u8
 http://45.188.229.33:8000/play/a0x2/index.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/somos-pergamino-ar.png" tvg-id="SomosRosario.ar",Somos Rosario 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:clearkey-keys=2ca95cff9a7781ad8f2889063496bccc:0901d3bebb0c2fe8db3870a21f736b5d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ca95cff9a7781ad8f2889063496bccc:0901d3bebb0c2fe8db3870a21f736b5d
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://stratusnex.site.je/tvstream/Somos_Rosario/c3eds/pass/cqloud/playlist.mpd
 #EXTINF:-1 tvg-chno="7" group-title="DIGITAL" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
