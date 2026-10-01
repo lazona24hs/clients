@@ -157,8 +157,14 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-9-televida-ar.png" tvg-id="Canal9Televida.ar" group-title="DIGITAL",LV83 Televida 9
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="480" group-title="DIGITAL" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
-https://stratusnex.intinet.com.ar/channels/alphatv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=1d7d1609477d0b0d51a5b7d1539e65eb&key=90b61b3fa577eab7b53ef6f1caeb82bf
+https://cdn.sensa.com.ar/bpk-tv/RockPop/default/index.mpd
+
 #EXTINF:-1 tvg-chno="481" group-title="DIGITAL" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tecnopolis/output.mpd
 #EXTINF:-1 tvg-chno="33" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
@@ -762,23 +768,25 @@ https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd
 http://200.115.120.1:8000/play/ca331/index.m3u8
 #EXTINF:-1 tvg-chno="311" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="DIGITAL",Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="141" group-title="DIGITAL" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 http://45.70.221.206/CM_OTT/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="142" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/200/200/0/0/12050400077728.png" group-title="DIGITAL", Billboard
+
+#EXTINF:-1 tvg-chno="" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/40/40/0/0/12050400077728.png",Billboard
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
-#EXTVLCOPT:http-referrer=https://webclient.axsbolivia.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kid:kw8rM4ZGN_rystq2yNC6kg,k:Uw5lYcxBl-nqt797bzWj7Q
-#EXTHTTP:{"urls":["https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8"],"headers":{"Origin":"https://webclient.axsbolivia.com","Referer":"https://webclient.axsbolivia.com/","User-Agent":"VisualOn OSMP+ Player(Linux;Android)"}}
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="143" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=d62845f01d257a91fd73d62751828dc1&key=b600539e698a707de23e57d4cdb99d9a
 https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+
 #EXTINF:-1 tvg-chno="144" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 http://45.188.229.33:8000/play/a0xu/index.m3u8
 #EXTINF:-1 tvg-chno="145" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
@@ -980,6 +988,21 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 #Radios y Streamings
 #
 #
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/40/40/0/0/18277879079297.png",Futuröck
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+https://cdn.sensa.com.ar/output/SMT6/FTRh/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/40/40/0/0/67035155079040.png",La Popu
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="DIGITAL"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/40/40/0/0/71941975079039.png",Cosquín Rock
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
 #EXTINF:-1 tvg-chno="208" tvg-id="" group-title="DIGITAL" tvg-logo="https://radiotv.ar/wp-content/uploads/2025/01/urbana_play.jpg" group-title="DIGITAL" ,Urbana Play
 https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-name="Frecuencia Plus" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="DIGITAL" radio="true",Fm Plus Rosario
