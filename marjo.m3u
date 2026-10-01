@@ -87,7 +87,11 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 #EXTINF:-1 tvg-chno="21" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
-http://45.70.221.206/CRONICA_OTT/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 #EXTINF:-1 tvg-chno="22" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
