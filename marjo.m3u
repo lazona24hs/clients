@@ -28,7 +28,12 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="DIGITAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="DIGITAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-http://181.209.38.115:8000/play/a00y/index.m3u8?tokens&stratusnex
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=014771c4a91db80e96f038ec0acfc304&keyid=e37fa696265923a6082de157662aab73
+https://cdn.sensa.com.ar/live/sta01/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+
 #EXTINF:-1 tvg-chno="10" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
