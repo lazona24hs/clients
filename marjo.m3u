@@ -389,7 +389,7 @@ http://181.209.38.115:8000/play/a02j/index.m3u8?tokens&stratusnex
 http://181.209.38.115:8000/play/a02l/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="104" group-title="DIGITAL" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
 http://45.188.229.33:8000/play/a0uw/index.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="DIGITAL",FX
+#EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/fx-lam.png" group-title="DIGITAL",FX
 http://181.209.38.115:8000/play/a012/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="106" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
 http://181.209.38.115:8000/play/a038/index.m3u8?tokens&stratusnex
@@ -453,30 +453,30 @@ http://45.188.229.33:8000/play/a0y1/index.m3u8
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 tvg-chno="126" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
 http://181.209.38.115:8000/play/a01f/index.m3u8?tokens&stratusnex
-#EXTINF:-1 tvg-chno="127" tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="DIGITAL",Universal
+#EXTINF:-1 tvg-chno="127" tvg-id="UniversalTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/universal-tv-int.png" group-title="DIGITAL",Universal
 http://181.209.38.115:8000/play/a01e/index.m3u8?tokens&stratusnex
-#EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="DIGITAL" group-logo="",Universal Cinema
+#EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/universal-cinema-lam.png" group-title="DIGITAL" group-logo="",Universal Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/hb7bfh.f/HB7%2524b%2524Fh%25C2%25B7F%2524/t.me/worldtv6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
-#EXTINF:-1 tvg-chno="129" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
+#EXTINF:-1 tvg-chno="129" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/universal-crime-lam.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=7ad1cfe8edbc35b5bab1a66a5ce298b3&key=25794ae1df1e9908d43a102481e7d311
 https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
-#EXTINF:-1 tvg-chno="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://i.ibb.co/HDQYnWhY/0844.png" group-title="DIGITAL" group-logo="",Universal Premiere
+#EXTINF:-1 tvg-chno="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/universal-premiere-lam.png" group-title="DIGITAL" group-logo="",Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/hb7bfh.f/HB7%2524b%2524Fh%25C2%25B7F%2524/t.me/teleplay24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
-#EXTINF:-1 tvg-chno="130" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
+#EXTINF:-1 tvg-chno="130" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/warner-channel-lam.png" tvg-id="Warner.ar",Warner Channel
 http://181.209.38.115:8000/play/a01h/index.m3u8?tokens&stratusnex
-#EXTINF:-1 tvg-chno="131" group-title="DIGITAL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NationalGeographic.ar",Nat Geo
+#EXTINF:-1 tvg-chno="131" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" tvg-id="NationalGeographic.ar",Nat Geo
 http://181.209.38.115:8000/play/a03f/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="330" group-title="DIGITAL" tvg-logo="https://i.ibb.co/6c2jd8hr/0831.jpg" tvg-id="Clover.ar",Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
