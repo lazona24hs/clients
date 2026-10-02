@@ -83,7 +83,7 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 
 #EXTINF:-1 tvg-chno="23" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-http://45.188.229.33:8000/play/a1a5/index.m3u8
+http://181.209.38.115:8000/play/a00p/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 http://181.209.38.115:8000/play/a00m/index.m3u8?tokens&stratusnex
@@ -149,7 +149,7 @@ http://181.209.38.115:8000/play/a036/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="38" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar",Canal a
-http://181.209.38.115:8000/play/a00v/index.m3u8?tokens&stratusnex
+http://181.209.38.115:8000/play/a03j/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="40" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="Volver.ar",Volver
 http://181.209.38.115:8000/play/a02r/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="41" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/bq29sfg1017235205063962896.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
@@ -330,7 +330,7 @@ http://181.209.38.115:8000/play/a02x/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="77" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DiscoveryKids.ar",Discovery Kids
 http://181.209.38.115:8000/play/a029/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="78" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_gray_360w_270h.png" tvg-id="DisneyChannel.ar",Disney Channel
-http://181.209.38.115:8000/play/a02a/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a10e/index.m3u8
 #EXTINF:-1 tvg-chno="79" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-id="DisneyJunior.ar",Disney Junior
 http://181.209.38.115:8000/play/a02b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="80" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
