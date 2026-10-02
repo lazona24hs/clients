@@ -492,7 +492,7 @@ http://181.209.38.115:8000/play/a013/index.m3u8?tokens&stratusnex
 http://45.188.229.33:8000/play/a136/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="120" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
-https://canales-premiu.elmanuchale.workers.dev/tlnovelas/index.m3u8
+http://45.188.229.33:8000/play/a1d9/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="140" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
 http://152.231.29.139:8000/play/a0g5/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="34" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
