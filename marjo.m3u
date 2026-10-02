@@ -500,11 +500,7 @@ http://45.188.229.33:8000/play/a102/index.m3u8
 #EXTINF:-1 tvg-chno="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
 #EXTINF:-1 tvg-chno="140" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=53b35977eefc0237bef0173f9b431a07&key=5402473ba47096edc01bb2334685d860
-https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd
+http://152.231.29.139:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-chno="336" tvg-id="Eurochannel.ar" tvg-logo="https://i.imgur.com/69hK0Mc.png" group-title="DIGITAL", EuroChannel
 http://200.115.120.1:8000/play/ca331/index.m3u8
 #EXTINF:-1 tvg-chno="311" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="DIGITAL",Tastemade
