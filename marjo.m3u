@@ -13,11 +13,7 @@
 #EXTINF:-1 tvg-chno="1" group-title="DIGITAL" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://zipstream.stratusnex.workers.dev/canaluno/live.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=44f6be58841f0c96cd347e97d57b0fdb&keyid=08a77a5784c0318845b3292939099ad3
-https://cdn.sensa.com.ar/live/sta01/Metro/live_dash_cld/Metro.mpd
+http://181.209.38.115:8000/play/a014/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="3" group-title="DIGITAL" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
@@ -48,10 +44,10 @@ http://45.188.229.33:8000/play/a1cn/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-chno="14" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lnmas/output.mpd
+http://45.70.221.206/LN_OTT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd
+http://181.209.38.115:8000/play/a03e/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="16" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tn-todo-noticias-ar.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
@@ -90,7 +86,7 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 http://45.188.229.33:8000/play/a1a5/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
+http://181.209.38.115:8000/play/a00m/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -142,18 +138,18 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tecnopolis/output.m
 #EXTINF:-1 tvg-chno="33" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/gourmet/output.mpd
+http://181.209.38.115:8000/play/a02m/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="35" group-title="DIGITAL" tvg-logo="https://canal3salta.com.ar/src/images/logo250x250.webp" tvg-id="",Canal 3 Salta
 https://ututotv.com.ar/live/stream.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="Encuentro.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="DIGITAL",Encuentro
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/encuentro/output.mpd
+http://181.209.38.115:8000/play/a051/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="37" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-rural-ar.png" tvg-id="CanalRural.ar",Rural
-http://45.179.152.42:8000/play/a03o
+http://181.209.38.115:8000/play/a036/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="38" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar",Canal a
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canala/output.mpd
+http://181.209.38.115:8000/play/a00v/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="40" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="Volver.ar",Volver
 http://181.209.38.115:8000/play/a02r/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="41" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/bq29sfg1017235205063962896.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
@@ -272,7 +268,7 @@ http://45.188.229.33:8000/play/a1cq/index.m3u8
 #EXTINF:-1 tvg-chno="66.1" group-title="DIGITAL" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/50840213?height=200&with=200" tvg-id="TyCSports2.ar",TyC Sports 2
 https://cyberuno.cdn.rcs.net.ar/mnp/tycsport2/output.mpd
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="DIGITAL",AM Sports
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/amsports/output.mpd
+http://181.209.38.115:8000/play/a008/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="325" group-title="DIGITAL" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="326" group-title="DIGITAL" tvg-logo="https://i.imgur.com/YlGh0Qk.png" tvg-id="PxSports.ar", PX Sports
@@ -317,74 +313,38 @@ http://45.188.229.33:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-chno="341" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/daystar-us.png" group-title="DIGITAL" group-logo="",DayStar en Español
 http://45.188.229.33:8000/play/a1f1/index.m3u8
 #EXTINF:-1 tvg-chno="71" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26769_dark_360w_270h.png" tvg-id="AdultSwim.ar",Adult Swim
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
+http://181.209.38.115:8000/play/a06g/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="72" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" tvg-id="BabyTv.ar",Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=5cf6da7262ddb74c2f370ded6056f46c&key=78109125565ab1747f511f7e77e3bbaf
-https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
+http://181.209.38.115:8000/play/a03u/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="73" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_white_360w_270h.png" tvg-id="NickJr.ar",Nick Jr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=040efb4ac8008085d09c17db602b24fa&key=1940b88114de13d460cb196326e638a7
-https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
+http://181.209.38.115:8000/play/a02c/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="74" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-id="Nickelodeon.ar",Nickelodeon
-http://45.188.229.33:8000/play/a13a/index.m3u8
+http://181.209.38.115:8000/play/a02e/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="75" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" tvg-id="PakaPaka.ar",Pakapaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=b767babf86cd94bb854084213c0ff47c&key=04847c6299cd7b48ebda927e957c167c
-https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
+http://181.209.38.115:8000/play/a02f/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="490" tvg-name="Clan" tvg-logo="https://i.imgur.com/UmI7uUs.png" group-title="DIGITAL",Clan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 #EXTINF:-1 tvg-chno="76" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_light_360w_270h.png" tvg-id="CartoonNetwork.ar",Cartoon Network
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd
+http://181.209.38.115:8000/play/a02x/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="77" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DiscoveryKids.ar",Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=4d8b3220ac30e5c8148d4bcc225efa5a&key=eb6918dfe117fc405396a9c3986a0450
-https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
+http://181.209.38.115:8000/play/a029/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="78" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_gray_360w_270h.png" tvg-id="DisneyChannel.ar",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=70d91b14935a3599f02e5dab71ef21dc&key=803e9152e9daf717b772399a97802076
-https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
+http://181.209.38.115:8000/play/a02a/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="79" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-id="DisneyJunior.ar",Disney Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=18654944953b25a8b6392722a83db653&key=40bf6a9f05bbf0e06715ed5707f0edd2
-https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
+http://181.209.38.115:8000/play/a02b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="80" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-chno="81" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" tvg-id="Tooncast.ar" ,Tooncast
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=fd904e04bd403cfa97b7482f3fefbea1&key=600f05511e9e743d8de056380e24310f
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
+http://45.188.229.33:8000/play/a11q/index.m3u8
 #EXTINF:-1 tvg-chno="82" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" tvg-id="Cartoonito.ar",Cartoonito
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=cf15d5a0f9329f815779d4a7dd760fbc&key=cd00a8a3f6a167954d4f678fab2323da
-https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
+http://45.188.229.33:8000/play/a1jp/index.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/cinepo/lgartwork/Logo.png" group-title="DIGITAL",Cinepolis Channel
 https://channels.stratusnex.workers.dev/cinepolis.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="DIGITAL",Filmelier TV
 https://channels.stratusnex.workers.dev/filmeliertv.m3u8
 #EXTINF:-1 tvg-chno="85" audio-track="es" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/6731e74243c3217313237143743865980226478549.png" tvg-id="DHE.ar",DHE
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
+http://45.188.229.33:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="DIGITAL",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
@@ -392,159 +352,63 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&
 https://channels.stratusnex.workers.dev/adrenalinapura.m3u8
 
 #EXTINF:-1 tvg-chno="88" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar",Cinecanal
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cinecanal/output.mpd
+http://181.209.38.115:8000/play/a00w/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="89" tvg-id="Cinemax.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" group-title="DIGITAL",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
+http://181.209.38.115:8000/play/a00x/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="90" tvg-id="ComedyCentral.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="DIGITAL",Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=eed9a193b3c6167b823030d788d771a4&key=d21daeba7e513d9f3ba714deeddd0630
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd
+http://181.209.38.115:8000/play/a00z/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/distrito-comedia-mx.png" tvg-id="DistritoComedia.uy" group-title="DIGITAL",Distrito Comedia
 http://45.188.229.33:8000/play/a0y8/index.m3u8
 #EXTINF:-1 tvg-chno="92" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AandE.ar",A&E
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
+http://181.209.38.115:8000/play/a00r/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="93" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GM3XW.png_gray_360w_270h.png" tvg-id="AmcSeries.ar",AMC SERIES
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=420a8a8f74e8a2b850cae8422216a653&key=03adc142038343f8558fd09fa28163cb
-https://cdn.sensa.com.ar/live/eds/AMCSeries/live_dash_cld/AMCSeries.mpd
+http://181.209.38.115:8000/play/a015/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="94" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_gray_360w_270h.png" tvg-id="Amc.ar",AMC
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=68fc78cb6fe580c35d269da87a471eb0&key=2bd623220a247d95d6900cea612769df
-https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
+http://181.209.38.115:8000/play/a00s/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="95" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82178_white_360w_270h.png" tvg-id="Axn.ar",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
+http://181.209.38.115:8000/play/a00t/index.m3u8?tokens&stratusne
 #EXTINF:-1 tvg-chno="96" group-title="DIGITAL" tvg-logo="" tvg-id="CineAr.ar",Cine.AR
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd
+http://181.209.38.115:8000/play/a00v/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="97" tvg-name="CindieTV" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png" tvg-language="Spanish" group-title="DIGITAL",Cindie TV
 https://channels.stratusnex.workers.dev/cindietv.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="Discovery.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" group-title="DIGITAL",Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=74ec986b3388c62f5fa7c551e225d0b8&key=9327821de5eace5508cf573778c8c3c3
-https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
+http://181.209.38.115:8000/play/a02g/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="99" tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="DIGITAL",Discovery H&H
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=73f141744a7aa50a45f9819f0e5bce8b&key=594eff3d094876954e699d548874c58f
-https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd
+http://181.209.38.115:8000/play/a02h/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="100" tvg-id="DiscoveryScience.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="DIGITAL",Discovery Science
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=2fcef63599e86bd9bd69644234020cd6&key=a82db4ee21e762bf6c734e71088511c0
-https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
+http://181.209.38.115:8000/play/a02i/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="101" tvg-id="DiscoveryTheater.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="DIGITAL",Discovery Theater
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=a753ba6e6b313f129bd6591364680f07&key=f3f8e1a7633b262ca37ae8c35f3cd1e2
-https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
+http://181.209.38.115:8000/play/a02k/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="102" tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="DIGITAL",Discovery Turbo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5
-https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd
+http://181.209.38.115:8000/play/a02j/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="DIGITAL",Discovery World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=b94901c6926870683c5baebc63496653&key=f04da24cd7eba6dfdd0d66ea2a2feb24
-https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
+http://181.209.38.115:8000/play/a02l/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="104" group-title="DIGITAL" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=f413ca6b4955bab7d89a3d24bbf8c98b&key=58168613434035ceb98e18815f97436c
-https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd
+http://45.188.229.33:8000/play/a0uw/index.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="DIGITAL",FX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
+http://181.209.38.115:8000/play/a012/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="106" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd
+http://181.209.38.115:8000/play/a038/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="107" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd
+http://181.209.38.115:8000/play/a030/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="108" tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="DIGITAL",HBO
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="DIGITAL",HBO 2
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=f962b76c3693dafee011746344b5e823&key=1ac863f1633dfc2d3db069f3dd9a8145
-https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd
+http://181.209.38.115:8000/play/a01k/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="342" tvg-id="HBOSignature.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature522766870392762345.png" group-title="DIGITAL" group-logo="",HBO Signature
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bf48ba89e03b41e52882a7e155facd9c&key=50103d8a819d4faed4e44dc6cd908066
-https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
+http://181.209.38.115:8000/play/a03i/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="343" tvg-id="HBOXtreme.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme11082935970382369340.png" group-title="DIGITAL" group-logo="",HBO Xtreme
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=33d4823ed2cae55c19fa0a7c20fa4235&key=a64c4d55edb20046802e76332c8aa75e
-https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd
+http://181.209.38.115:8000/play/a01i/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="344" tvg-id="HBOPlus.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hboplus1428396294149288788.png" group-title="DIGITAL" group-logo="",HBO +
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=c6f386db42c083a82b8969064eb9907d&key=dc492969ce6b9cb3909a5d59a33f88da
-https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+http://181.209.38.115:8000/play/a01v/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="345" tvg-id="HBOPop.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="DIGITAL" group-logo="",HBO POP
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=d5cf1ad9c7bc0a20051535aff63a5c04&key=019ea0de590a01385f50ae3fe090d19e
-https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd
+http://45.188.229.33:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-chno="346" tvg-id="HBOMundi.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="DIGITAL" group-logo="",HBO Mundi
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bea5da44f49a7e30d21a6e0a2fddc225&key=0185b209bf50e2a1b1cfd416db5177de
-https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd
+http://181.209.38.115:8000/play/a027/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="DIGITAL" group-logo="",HBO Family
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=c6f386db42c083a82b8969064eb9907d&key=dc492969ce6b9cb3909a5d59a33f88da
-https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+http://181.209.38.115:8000/play/a03d/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="110" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 #EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -552,43 +416,23 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="DIGITAL",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="DIGITAL",Sony
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
+http://181.209.38.115:8000/play/a016/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="112" group-title="DIGITAL" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" tvg-id="SonyMovies.ar",Sony Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b80550353a7ba2c637b952345e6f79f6:075fade91099c9f43ed30ec8d0b71399
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
+http://181.209.38.115:8000/play/a017/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="113" tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="DIGITAL",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="DIGITAL",Space
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/space/output.mpd
+http://181.209.38.115:8000/play/a031/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="115" tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="DIGITAL",Star Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
+http://181.209.38.115:8000/play/a019/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="116" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
 http://rough-dream-f561.stratusnex.workers.dev/c02k.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="DIGITAL",Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
+http://181.209.38.115:8000/play/a01a/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="DIGITAL",TCM
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tcm/output.mpd
+http://181.209.38.115:8000/play/a01b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="119" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd
+http://181.209.38.115:8000/play/a037/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="120" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 https://canales-premiu.elmanuchale.workers.dev/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="DIGITAL",TNT
@@ -596,17 +440,9 @@ https://canales-premiu.elmanuchale.workers.dev/tlnovelas/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="DIGITAL",TNT Novelas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd
+http://181.209.38.115:8000/play/a02w/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="DIGITAL",TNT Series
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=2d15f2d2f8f81fbacd82391f5889aa3a&key=97c7a5029500a81d37f2b70d6276fc9a
-https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd
+http://181.209.38.115:8000/play/a034/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="124" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-chno="125" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
@@ -616,15 +452,11 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
+http://181.209.38.115:8000/play/a01f/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="127" tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="DIGITAL",Universal
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/universal/output.mpd
+http://181.209.38.115:8000/play/a01e/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="DIGITAL" group-logo="",Universal Cinema
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=6a65e77fb5f2838b2f97c778cc571ac2&key=bc1f28b1ec619ed7da22fc9a80d3a35d
-https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+http://45.188.229.33:8000/play/a1lj/index.m3u8
 #EXTINF:-1 tvg-chno="129" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -634,33 +466,25 @@ https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 #EXTINF:-1 tvg-chno="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://i.ibb.co/HDQYnWhY/0844.png" group-title="DIGITAL" group-logo="",Universal Premiere
 http://45.188.229.33:8000/play/a0u4/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/warner/output.mpd
+http://181.209.38.115:8000/play/a01h/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="131" group-title="DIGITAL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NationalGeographic.ar",Nat Geo
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/natgeohd/output.mpd
+http://181.209.38.115:8000/play/a03f/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="330" group-title="DIGITAL" tvg-logo="https://i.ibb.co/6c2jd8hr/0831.jpg" tvg-id="Clover.ar",Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="History2.ar",History 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
+http://181.209.38.115:8000/play/a05b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="133" group-title="DIGITAL" tvg-logo="" tvg-id="History.ar",History Channel
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/history/output.mpd
+http://181.209.38.115:8000/play/a02n/index.m3u8?tokens&stratusne
 #EXTINF:-1 tvg-chno="134" group-title="DIGITAL" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" tvg-id="TLC.cl",TLC
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dsc_tlc/output.mpd
+http://45.188.229.33:8000/play/a18x/index.m3u8
 #EXTINF:-1 tvg-chno="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lifetime/output.mpd
+http://181.209.38.115:8000/play/a013/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="136" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
 http://181.224.200.5:2277/play/4324/index.m3u8
 #EXTINF:-1 tvg-chno="137" group-title="DIGITAL" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
 http://45.188.229.33:8000/play/a1im/index.m3u8
 #EXTINF:-1 tvg-chno="138" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="AnimalPlanet.ar",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571
-https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
+http://181.209.38.115:8000/play/a01q/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
 #EXTINF:-1 tvg-chno="140" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
