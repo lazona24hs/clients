@@ -286,7 +286,7 @@ https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="DIGITAL",Sportv
 http://190.8.174.155:80/SPORTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.imgur.com/35enUz3.png" tvg-name="Golf Channel" group-title="DIGITAL",Golf Channel
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/golf/output.mpd
+http://45.188.229.33:8000/play/a0xx/index.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-id="66997d18a1b69e00082ee85f" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png" group-title="DIGITAL",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="0441" tvg-logo="https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png" group-title="DIGITAL",VIX TUDN 
@@ -444,7 +444,7 @@ http://181.209.38.115:8000/play/a02w/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="DIGITAL",TNT Series
 http://181.209.38.115:8000/play/a034/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="124" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
-http://38.224.175.2:8000/play/a027/index.m3u8
+http://45.188.229.33:8000/play/a0y1/index.m3u8
 #EXTINF:-1 tvg-chno="125" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 tvg-chno="126" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
