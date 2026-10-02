@@ -31,8 +31,8 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=014771c4a91db80e96f038ec0acfc304&keyid=e37fa696265923a6082de157662aab73
-https://cdn.sensa.com.ar/live/sta01/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=014771c4a91db80e96f038ec0acfc304&key=e37fa696265923a6082de157662aab73
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
 
 #EXTINF:-1 tvg-chno="10" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
@@ -49,7 +49,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=bd1767fe3554f1285222b5610105c0e9&keyid=839d5b1eec7eb70d68c1e1531fc0d6d4
-https://cdn.sensa.com.ar/live/sta01/C5N/live_dash_cld/C5N.mpd
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
 #EXTINF:-1 tvg-chno="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
