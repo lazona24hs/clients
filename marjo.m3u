@@ -487,7 +487,13 @@ http://181.209.38.115:8000/play/a05b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="133" group-title="DIGITAL" tvg-logo="" tvg-id="History.ar",History Channel
 http://181.209.38.115:8000/play/a02n/index.m3u8?tokens&stratusne
 #EXTINF:-1 tvg-chno="134" group-title="DIGITAL" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" tvg-id="TLC.cl",TLC
-http://45.188.229.33:8000/play/a18x/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57
+https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
+
+
 #EXTINF:-1 tvg-chno="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://181.209.38.115:8000/play/a013/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="136" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
