@@ -48,7 +48,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=bd1767fe3554f1285222b5610105c0e9&keyid=839d5b1eec7eb70d68c1e1531fc0d6d4
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4
 https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
