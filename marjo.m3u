@@ -432,7 +432,7 @@ http://181.209.38.115:8000/play/a01a/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="DIGITAL",TCM
 http://181.209.38.115:8000/play/a01b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="119" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
-http://181.209.38.115:8000/play/a037/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a11r/index.m3u8
 #EXTINF:-1 tvg-chno="120" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 https://canales-premiu.elmanuchale.workers.dev/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="DIGITAL",TNT
