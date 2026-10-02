@@ -28,11 +28,7 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="DIGITAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="DIGITAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=014771c4a91db80e96f038ec0acfc304&key=e37fa696265923a6082de157662aab73
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+http://181.209.38.115:8000/play/a00y/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="10" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
@@ -45,11 +41,7 @@ http://45.188.229.33:8000/play/a1cn/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-chno="14" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+http://181.209.38.115:8000/play/a03e/index.m3u8?tokens&stratusnex
 
 
 #EXTINF:-1 tvg-chno="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
@@ -493,11 +485,7 @@ http://181.209.38.115:8000/play/a05b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="133" group-title="DIGITAL" tvg-logo="" tvg-id="History.ar",History Channel
 http://181.209.38.115:8000/play/a02n/index.m3u8?tokens&stratusne
 #EXTINF:-1 tvg-chno="134" group-title="DIGITAL" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" tvg-id="TLC.cl",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57
-https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
+http://45.188.229.33:8000/play/a18x/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
@@ -507,11 +495,7 @@ http://181.224.200.5:2277/play/4324/index.m3u8
 #EXTINF:-1 tvg-chno="137" group-title="DIGITAL" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
 http://45.188.229.33:8000/play/a1im/index.m3u8
 #EXTINF:-1 tvg-chno="138" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="AnimalPlanet.ar",ANIMAL PLANET
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571
-https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
+http://45.188.229.33:8000/play/a102/index.m3u8
 
 #EXTINF:-1 tvg-chno="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
@@ -538,11 +522,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="143" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=d62845f01d257a91fd73d62751828dc1&key=b600539e698a707de23e57d4cdb99d9a
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+http://181.209.38.115:8000/play/a02s/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1 tvg-chno="144" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 http://45.188.229.33:8000/play/a0xu/index.m3u8
@@ -605,12 +585,7 @@ https://cdn.sensa.com.ar/output/ARR4/TSFH/playlist.m3u8?|referer=https://player.
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="DIGITAL", CeltaTV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://i.imgur.com/1CCplpb.png" tvg-id="ElTrece.ar" group-title="DIGITAL", El Trece
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
-
+http://181.209.38.115:8000/play/a00n/index.m3u8?tokens&stratusnex
 
 #170
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="DIGITAL", RTN TV
