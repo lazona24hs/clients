@@ -619,9 +619,7 @@ https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="179" group-title="DIGITAL" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
-#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telemundo.stream/playlist.m3u8
+http://45.5.118.152:8000/play/a02j/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="180" group-title="DIGITAL" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png",Imagen Television
 http://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="181" group-title="DIGITAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="NTN24NuestraTeleNoticias.ar",NTN 24 Horas
