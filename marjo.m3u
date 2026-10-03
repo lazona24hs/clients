@@ -39,6 +39,9 @@ https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfedera
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="12" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-de-la-ciudad-ar.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
 http://45.188.229.33:8000/play/a1cn/index.m3u8
 
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
+http://181.209.38.115:8000/play/a00p/index.m3u8?tokens&stratusnex
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="13" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-26-ar.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
@@ -74,7 +77,7 @@ http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="",Telefe Rosario
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" group-title="DIGITAL" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="",Telefe Rosario
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,9 +85,6 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 
 
-
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-http://181.209.38.115:8000/play/a00p/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 http://181.209.38.115:8000/play/a00m/index.m3u8?tokens&stratusnex
