@@ -216,11 +216,12 @@ https://channels.stratusnex.workers.dev/canal8sanjuan.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="30.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/vn6ORHB.png" tvg-id="", Canal 10 Tucuman
 https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="33.1" tvg-id="MixTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmixtv.png" group-title="DIGITAL",Mix TV 
-#KODIPROP:inputstream.adaptive.license_key=65d71143cb18b78e179cee85f858d5dd:24eddb4521a6b36f7770d6a4f2d907ee
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://stratusnex.site.je/tvstream/MixTV/c5eds/pass/cqloud/playlist.mpd
+#KODIPROP:inputstream.adaptive.license_key=65d71143cb18b78e179cee85f858d5dd:24eddb4521a6b36f7770d6a4f2d907ee
+https://whatmania.com.ar/tvstream/MixTV/c5eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
 https://channels.stratusnex.workers.dev/diputadostv.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="18.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Y7ebRp4.png" tvg-id="", Bayres TV
