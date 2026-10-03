@@ -1018,8 +1018,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.3" group-title="" tvg-logo="" tvg-id="", Test [ Clone ]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ca95cff9a7781ad8f2889063496bccc:0901d3bebb0c2fe8db3870a21f736b5d
-https://whatmania.com.ar/tvstream/Somos_Rosario/c4eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=b28bf4d4eec81cb96e6ca9a0c022dcd5&keyid=675cb5adcd788bdee4af50518b041626
+https://dish.akamaized.net/Content/DASH/Live/channel(telefe_arg)/variant.mpd
 
 #
 #
