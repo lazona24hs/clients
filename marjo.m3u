@@ -115,9 +115,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="CN23.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="670" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="DIGITAL", Canal 4 Jujuy
-#EXTVLCOPT:http-user-agent=Android
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
+http://channels.stratusnex.workers.dev/diputadostv.m3u8
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="30" group-title="DIGITAL" tvg-logo="https://i.imgur.com/ThZvP3q.png",TDC Firmat
@@ -164,6 +163,15 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a
 https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="12.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/WP3vPXA.png",Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="42.1" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/40/40/0/0/7476260107885.png", Canal 10 Córdoba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=faf29a5a543c9d82ef34ec2479140003&key=2452197f9d4eb63a3081d986ca413375
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="43" group-title="DIGITAL" tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="",Canal 9 Resistencia 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="44" group-title="DIGITAL" tvg-logo="https://www.iteltv.com.ar/public/img/iconos/logo%20footer.png" tvg-id="",Itel TV
@@ -192,11 +200,7 @@ https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.sensa.com.ar/output/SMT7/BVCh/playlist.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="16.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece [ DIGITAL ]
-#EXTVLCOPT:http-referrer=https://vodgc.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://channels.stratusnex.workers.dev/eltrece.m3u8
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="21.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 
@@ -222,28 +226,17 @@ https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 https://whatmania.com.ar/tvstream/MixTV/c4eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83404a1a63bad8a1d21aabf89f6436cc:b4ce534c34911e703ffc780653bb2a78
-https://whatmania.com.ar/tvstream/Diputados_TV/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="18.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Y7ebRp4.png" tvg-id="", Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="15.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png",GenTV 
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="12.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/WP3vPXA.png",Canal 50 Morteros
-https://online.coopmorteros.coop/canal50/vivo.m3u8
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="40.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/WX0esjQ.png",Canal 5 Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="41.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/CudG6sl.png",Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="42.1" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/40/40/0/0/7476260107885.png", Canal 10 Córdoba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=faf29a5a543c9d82ef34ec2479140003&key=2452197f9d4eb63a3081d986ca413375
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="53" group-title="DIGITAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="54" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports Alternativo
@@ -1023,6 +1016,11 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #
 #
 #Relay
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="16.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece [ DIGITAL ]
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://channels.stratusnex.workers.dev/eltrece.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.1" group-title="" tvg-logo="" tvg-id="",Test
 http://45.70.221.206/LN_OTT/playlist.m3u8
