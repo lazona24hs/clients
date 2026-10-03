@@ -78,8 +78,9 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=172bb2b8fa089d9d7f6d6a1b956682c9&keyid=b5ba5c05d3eb98bb2d26ff885ac3cacc
-https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=e693edee3bb6b3eab4e24a9293d1204d&keyid=6ad6f6cfee9c415dff0674701bf71683
+https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
+
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
