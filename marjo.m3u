@@ -440,11 +440,7 @@ http://181.209.38.115:8000/play/a01e/index.m3u8?tokens&stratusnex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="129" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/universal-crime-lam.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=b1c5b3c9a8ddc4badf5f49f8a989cf77&keyid=cfc6790cbc2bc791b05c4f8f8126f5b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+http://45.5.118.152:8000/play/a0dp
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/universal-premiere-lam.png" group-title="DIGITAL" group-logo="",Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -474,7 +470,7 @@ http://45.188.229.33:8000/play/a136/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="120" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 http://45.188.229.33:8000/play/a1d9/index.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="140" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="140" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="",Food Network
 http://45.181.120.147:9800/play/029/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="34" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
 http://181.209.38.115:8000/play/a02m/index.m3u8?tokens&stratusnex
