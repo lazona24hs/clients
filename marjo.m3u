@@ -481,7 +481,8 @@ http://45.188.229.33:8000/play/a1jx/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
 
-
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="982" group-title="DIGITAL" tvg-logo="" tvg-id="", TELEHIT 
+http://cdnexterno.thomas-talk.me:8081/externo/canal_telehithd/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="141" group-title="DIGITAL" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 http://45.70.221.206/CM_OTT/playlist.m3u8
 
