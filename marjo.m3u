@@ -21,8 +21,13 @@ https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="5" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://45.188.229.33:8000/play/a0x2/index.m3u8
-#EXTINF:-1 tvg-id="[STARHD] Star TVE" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="DIGITAL" ch-number="6" type="channel",Star TVE
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="Dnews" tvg-name="Dnews" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/40/40/0/0/85249704073644.png" group-title="DIGITAL" ch-number="6" type="channel",Dnews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=172bb2b8fa089d9d7f6d6a1b956682c9&keyid=b5ba5c05d3eb98bb2d26ff885ac3cacc
+https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
+
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="7" group-title="DIGITAL" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
@@ -129,8 +134,8 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
 https://cdn.sensa.com.ar/bpk-tv/RockPop/default/index.mpd
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="481" group-title="DIGITAL" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
-http://181.209.91.106:2222/Live/eda5c73c720e609daa60979a6eb5bdf3/tectv.playlist.m3u8
+#EXTINF:-1  tvg-id="[STARHD] Star TVE" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="DIGITAL" ch-number="481" type="channel",Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="33" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
