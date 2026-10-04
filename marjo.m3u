@@ -91,9 +91,9 @@ http://181.209.38.115:8000/play/a00m/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=34f254be5f3d6a8ab44c28b4cb2e5a4a&keyid=61635507689b4c74568928cc0f5d82d9
+#KODIPROP:inputstream.adaptive.license_key=34f254be5f3d6a8ab44c28b4cb2e5a4a:61635507689b4c74568928cc0f5d82d9
 https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="26" group-title="DIGITAL" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
@@ -154,17 +154,17 @@ https://cdn.sensa.com.ar/output/SMT6/C10MPH/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="42" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="ElGarage.ar",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  tvg-name="Telediario Digital" tvg-logo="https://i.imgur.com/sBechkT.png" group-title="DIGITAL" ch-number="351",Telediario Digital
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a
+#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
 https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="12.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/WP3vPXA.png",Canal 50 Morteros
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="42.1" group-title="DIGITAL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/40/40/0/0/7476260107885.png", Canal 10 Córdoba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=faf29a5a543c9d82ef34ec2479140003&key=2452197f9d4eb63a3081d986ca413375
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
 
@@ -199,7 +199,7 @@ https://cdn.sensa.com.ar/output/SMT7/BVCh/playlist.m3u8
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89.1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/40/40/0/0/49015720078226.png?WORLDTV6" group-title="DIGITAL",El Destape
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
