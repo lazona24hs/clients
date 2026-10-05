@@ -365,7 +365,7 @@ http://181.209.38.115:8000/play/a02j/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="DIGITAL",Discovery World
 http://181.209.38.115:8000/play/a02l/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="104" group-title="DIGITAL" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
-http://45.170.130.224:8000/play/a01t/index.m3u8
+http://45.188.229.33:8000/play/a10c/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="105" tvg-id="FX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/fx-lam.png" group-title="DIGITAL",FX
 http://181.209.38.115:8000/play/a012/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="106" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
@@ -385,7 +385,7 @@ http://181.209.38.115:8000/play/a01i/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="344" tvg-id="HBOPlus.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hboplus1428396294149288788.png" group-title="DIGITAL" group-logo="",HBO +
 http://181.209.38.115:8000/play/a01v/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="345" tvg-id="HBOPop.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="DIGITAL" group-logo="",HBO POP
-http://158.172.155.130:8000/play/a007/index.m3u8
+http://45.188.229.33:8000/play/a139/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="346" tvg-id="HBOMundi.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="DIGITAL" group-logo="",HBO Mundi
 http://181.209.38.115:8000/play/a027/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="DIGITAL" group-logo="",HBO Family
@@ -456,9 +456,9 @@ http://181.209.38.115:8000/play/a05b/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="133" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-channel-ar.png" tvg-id="History.ar",History Channel
 http://181.209.38.115:8000/play/a02n/index.m3u8?tokens&stratusne
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="134" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" tvg-id="TLC.cl",TLC
-http://45.170.130.224:8000/play/a024/index.m3u8
+http://45.188.229.33:8000/play/a11m/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="137" group-title="DIGITAL" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
-http://45.5.118.152:8000/play/a0dl/index.m3u8
+http://45.188.229.33:8000/play/a1im/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://181.209.38.115:8000/play/a013/index.m3u8?tokens&stratusnex
