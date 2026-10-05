@@ -21,7 +21,7 @@ https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="5" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://45.188.229.33:8000/play/a0x2/index.m3u8
-#EXTINF:-1 tvg-id="Dnews" tvg-name="Dnews" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/40/40/0/0/85249704073644.png" group-title="DIGITAL" ch-number="6" type="channel",Dnews
+#EXTINF:-1 tvg-id="Dnews" tvg-name="Dnews" tvg-logo="https://yt3.googleusercontent.com/1j9Q64SuG-vANdJ91r4l-Uuy0fq93erXtVjt77Yh3SARvKhdIg4MyeFKFRWaHhSyHwRDxsb-Sw=s900-c-k-c0x00ffffff-no-rj" group-title="DIGITAL" ch-number="6" type="channel",Dnews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
