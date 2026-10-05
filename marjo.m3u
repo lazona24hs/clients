@@ -210,7 +210,7 @@ https://cdn.sensa.com.ar/output/SMT7/BVCh/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="17.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 11 Entre Ríos
-https://cyberuno.cdn.rcs.net.ar/hub/eloncetv/hls/1920x1080.m3u8
+http://190.7.19.206:8098/play/a0pt/index.m3u8
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="15.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png",GenTV 
