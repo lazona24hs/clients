@@ -252,7 +252,7 @@ https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234&utf=1
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="DIGITAL",DeporTV
-http://45.188.229.33:8000/play/a1cq/index.m3u8
+http://181.209.38.115:8000/play/a00a/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="66" group-title="DIGITAL" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="TyCSports.ar",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8|referer=https://play.tycsports.com/
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="65" tvg-id="AmericaSports.ar" group-title="DIGITAL",AM Sports
@@ -385,7 +385,7 @@ http://181.209.38.115:8000/play/a01i/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="344" tvg-id="HBOPlus.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hboplus1428396294149288788.png" group-title="DIGITAL" group-logo="",HBO +
 http://181.209.38.115:8000/play/a01v/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="345" tvg-id="HBOPop.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="DIGITAL" group-logo="",HBO POP
-http://45.188.229.33:8000/play/a139/index.m3u8
+http://158.172.155.130:8000/play/a007/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="346" tvg-id="HBOMundi.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="DIGITAL" group-logo="",HBO Mundi
 http://181.209.38.115:8000/play/a027/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="DIGITAL" group-logo="",HBO Family
@@ -476,7 +476,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canela
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="336" tvg-id="Eurochannel.ar" tvg-logo="https://i.imgur.com/69hK0Mc.png" group-title="DIGITAL", EuroChannel
 http://200.115.120.1:8000/play/ca331/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="138" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="AnimalPlanet.cl",ANIMAL PLANET
-http://45.170.130.224:8000/play/a01t/index.m3u8
+http://45.179.152.42:8000/play/a00n
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
