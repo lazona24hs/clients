@@ -42,7 +42,7 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="11" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="12" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-de-la-ciudad-ar.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
-http://45.188.229.33:8000/play/a1cn/index.m3u8
+https://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
 http://181.209.38.115:8000/play/a00p/index.m3u8?tokens&stratusnex
