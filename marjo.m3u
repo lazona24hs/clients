@@ -202,7 +202,7 @@ https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
 https://cdn.sensa.com.ar/output/SMT7/BVCh/playlist.m3u8
 
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89.1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/40/40/0/0/49015720078226.png?WORLDTV6" group-title="DIGITAL",El Destape
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89.1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/40/40/0/0/49015720078226.png" group-title="DIGITAL",El Destape
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -818,7 +818,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
 #
 #
 #
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="799" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/thumbnail.jpg",Pluto TV Cine Premiere
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="799" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/thumbnail.jpg" tvg-id="5cf968040ab7d8f181e6a68b",Pluto TV Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="244" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" tvg-id="5dcb62e63d4d8f0009f36881",Pluto TV Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
@@ -985,6 +985,8 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #
 #
 #Relay
+#EXTINF:-1 ch-number="99.1" tvg-logo="https://24-7noticias.com/wp-content/uploads/2026/05/cropped-logo-pagina-1.png" group-title="DIGITAL" tvg-name="24/7 NOTICIAS",24/7 NOTICIAS
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="16.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece [ DIGITAL ]
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
