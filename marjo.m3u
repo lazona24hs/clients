@@ -629,7 +629,7 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="183" group-title="DIGITAL" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="Chilevisión.cl",CHV
 http://45.188.229.33:8000/play/a135/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="184" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNChile.uy",TVN
-http://45.188.229.33:8000/play/a134/index.m3u8
+https://iptv.bitred.cl/tvn/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="185" group-title="DIGITAL" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg" tvg-id="Univision.uy",Univision
 http://45.5.116.228:8000/play/a0kr/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="186" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RT.uy",RT en Español
