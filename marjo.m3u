@@ -477,8 +477,7 @@ http://45.188.229.33:8000/play/a102/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="139" group-title="DIGITAL" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://45.188.229.33:8000/play/a13o/index.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="982" group-title="DIGITAL" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="", TELEHIT 
-http://cdnexterno.thomas-talk.me:8081/externo/canal_telehithd/playlist.m3u8
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="141" group-title="DIGITAL" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 http://45.70.221.206/CM_OTT/playlist.m3u8
 
@@ -501,14 +500,14 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 https://channels.stratusnex.workers.dev/149.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="147" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="MTV.ar",MTV
 http://181.209.38.115:8000/play/a02q/index.m3u8?tokens&stratusnex
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="148" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-id="",MTV FlowLatino
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="149" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" tvg-id="",MTV Biggest Pop
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="148" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" tvg-name="VM Latino",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="149" group-title="DIGITAL" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="", TELEHIT 
+http://cdnexterno.thomas-talk.me:8081/externo/canal_telehithd/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="150" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" tvg-id="",MTV Rocks
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="151" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" tvg-id="66a11a21a79dea0008aa90ca",MTV Classic
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="151" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" tvg-name="",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="152" tvg-id="" tvg-logo="https://i.imgur.com/Cf01Ybw.png" group-title="DIGITAL",Vevo POP
 https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="153" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://i.imgur.com/Cf01Ybw.png" group-title="DIGITAL",Vevo Latino
