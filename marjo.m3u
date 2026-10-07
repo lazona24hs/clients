@@ -405,15 +405,15 @@ http://rough-dream-f561.stratusnex.workers.dev/c02k.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="DIGITAL",Studio Universal
 http://181.209.38.115:8000/play/a01a/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="DIGITAL",TCM
-http://181.209.38.115:8000/play/a01b/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a0y2/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="119" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
-http://181.209.38.115:8000/play/a03g/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a11r/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="121" tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="DIGITAL",TNT
 http://45.188.229.33:8000/play/a1dn/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="122" tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="DIGITAL",TNT Novelas
 http://181.209.38.115:8000/play/a02w/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="DIGITAL",TNT Series
-http://181.209.38.115:8000/play/a034/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1do/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="124" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
 http://45.188.229.33:8000/play/a0y1/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="125" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
