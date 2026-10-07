@@ -51,7 +51,7 @@ http://45.188.229.33:8000/play/a1dm/index.m3u8?tokens&stratusnex
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="14" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
-http://181.209.38.115:8000/play/a03e/index.m3u8?tokens&stratusnex
+https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
 http://45.70.221.206/LN_OTT/playlist.m3u8
 
