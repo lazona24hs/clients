@@ -333,9 +333,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&
 https://channels.stratusnex.workers.dev/adrenalinapura.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="88" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar",Cinecanal
-http://181.209.38.115:8000/play/a00w/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1dl/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89" tvg-id="Cinemax.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" group-title="DIGITAL",Cinemax
-http://181.209.38.115:8000/play/a00x/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1ag/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="90" tvg-id="ComedyCentral.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="DIGITAL",Comedy Central
 http://181.209.38.115:8000/play/a00z/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="91" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/distrito-comedia-mx.png" tvg-id="DistritoComedia.uy" group-title="DIGITAL",Distrito Comedia
