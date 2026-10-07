@@ -871,8 +871,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.3" group-title="" tvg-logo="" tvg-id="", Test [ Clone ]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd97f4f409eb4702833de5fe264850eb:eae64832d7b9d1f7e9452669966b119e
-https://el4live1.boldmss.com/IP/IP_EL4.isml/IP.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=3c47e85aecfe86dec38866abd7fd2119&keyid=7157e6755244da29b59b66b67416e99f
+https://dish.akamaized.net/Content/DASH/Live/channel(foodnetwork_arg)/variant.mpd
 #
 #
 #
