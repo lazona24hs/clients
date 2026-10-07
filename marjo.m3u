@@ -90,7 +90,7 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-http://181.209.38.115:8000/play/a00m/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1aw/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar",AR12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
