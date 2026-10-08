@@ -602,7 +602,7 @@ http://45.188.229.33:8000/play/a0uy/index.m3u8
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="177" tvg-id="A3Series.uy" tvg-logo="https://i.ibb.co/QF230yLz/0618.jpg" group-title="DIGITAL", A3Series
-http://190.211.172.203:4000/play/a0ue/index.m3u8
+http://45.188.229.33:8000/play/a1em/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="196" group-title="DIGITAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" tvg-id="EuropaEuropa.ar",Europa Europa
 http://45.70.221.206/EUROPA_EUROPA_OTT/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="333" group-title="DIGITAL" tvg-logo="https://i.ibb.co/BV1xk9ps/0858.jpg" tvg-id="",Claro Cinema
@@ -610,9 +610,7 @@ http://45.188.229.33:8000/play/a0wb/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="199" tvg-id="5cf0622da00ca1e2f6fac712" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="DIGITAL",Estrella TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="178" group-title="DIGITAL" tvg-logo="https://i.ibb.co/nqgp93Vg/0910.jpg" tvg-id="",Latina
-#EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
+http://45.188.229.33:8000/play/a0v2/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="179" group-title="DIGITAL" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
 http://45.5.118.152:8000/play/a02j/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="180" group-title="DIGITAL" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png",Imagen Television
