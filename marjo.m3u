@@ -233,17 +233,17 @@ http://45.188.229.33:8000/play/a18u/index.m3u8
 https://b5cce558f58c4843a8264d282ebce3ec.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="56" tvg-id="Espn.ar" group-title="DIGITAL",ESPN
-http://181.209.38.115:8000/play/a00b/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1az/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="DIGITAL",Fox Sports
-http://181.209.38.115:8000/play/a00g/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1dh/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="DIGITAL",ESPN 2
-http://181.209.38.115:8000/play/a02z/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1ay/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="59" tvg-id="Espn3.ar" group-title="DIGITAL",ESPN 3
-http://181.209.38.115:8000/play/a00d/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1b0/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="60" tvg-id="Espn4.ar" group-title="DIGITAL",ESPN 4
 http://45.188.229.33:8000/play/a10g/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="DIGITAL",Fox Sports 2
-http://181.209.38.115:8000/play/a00h/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1b1/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="DIGITAL",DAZN
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234&utf=1
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="DIGITAL" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
@@ -255,7 +255,7 @@ http://45.70.221.206/DEPORTV_OTT/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="66" group-title="DIGITAL" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="TyCSports.ar",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8|referer=https://play.tycsports.com/
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="65" tvg-id="AmericaSports.ar" group-title="DIGITAL",AM Sports
-http://181.209.38.115:8000/play/a008/index.m3u8?tokens&stratusnex
+http://190.7.19.206:8098/play/a0ls/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="325" group-title="DIGITAL" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="326" group-title="DIGITAL" tvg-logo="https://i.imgur.com/YlGh0Qk.png" tvg-id="PxSports.ar", PX Sports
@@ -404,7 +404,7 @@ http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="113" tvg-name="Sony One Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="DIGITAL",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="114" tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="DIGITAL",Space
-http://181.209.38.115:8000/play/a031/index.m3u8?tokens&stratusnex
+http://190.7.19.206:8098/play/a0mr/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="115" tvg-id="StarChannel.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/star-channel-ar.png" group-title="DIGITAL",Star Channel
 http://45.188.229.33:8000/play/a1dj/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="116" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cine-latino-us.png" tvg-id="CineLatino.ar",Cine Latino
@@ -493,7 +493,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="143" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
-http://181.209.38.115:8000/play/a02s/index.m3u8?tokens&stratusnex
+http://190.7.19.206:8098/play/a0mi/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="144" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 http://45.188.229.33:8000/play/a0xu/index.m3u8
