@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/chile1.xml.gz, https://www.open-epg.com/files/uruguay.xml.gz, https://www.open-epg.com/files/argentina.xml.gz, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://stratusnex.com.ar"
-# ZIPTV
+# StratusNex
 # Canales: 340
 # Grupo: ZipTV
 # Categorias: Streaming/Radios/Entretenimiento/Musica/Noticias
@@ -404,7 +404,7 @@ http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="113" tvg-name="Sony One Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="DIGITAL",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="114" tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="DIGITAL",Space
-http://190.7.19.206:8098/play/a0mr/index.m3u8
+http://45.188.229.33:8000/play/a1hv/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="115" tvg-id="StarChannel.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/star-channel-ar.png" group-title="DIGITAL",Star Channel
 http://45.188.229.33:8000/play/a1dj/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="116" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cine-latino-us.png" tvg-id="CineLatino.ar",Cine Latino
