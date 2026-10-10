@@ -495,13 +495,13 @@ https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 http://181.209.38.115:8000/play/a02s/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="144" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
-http://181.209.38.115:8000/play/a037/index.m3u8?tokens&stratusnex
+https://streaming.onnethn.com/HTV/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="145" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="146" group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1280px-TRACE_Latina_Logo.png",Trace Latina
 https://channels.stratusnex.workers.dev/149.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="147" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="MTV.ar",MTV
-http://181.209.38.115:8000/play/a02q/index.m3u8?tokens&stratusnex
+https://streaming.onnethn.com/MTV/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="148" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="149" group-title="DIGITAL" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="", TELEHIT 
