@@ -318,9 +318,9 @@ http://181.209.38.115:8000/play/a02b/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="80" group-title="DIGITAL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="81" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" tvg-id="Tooncast.ar" ,Tooncast
-https://streaming.onnethn.com/TOONCAST/index.m3u8
+http://45.188.229.33:8000/play/a11q/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="82" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" tvg-id="Cartoonito.ar",Cartoonito
-https://streaming.onnethn.com/CARTOONITO/index.m3u8
+http://45.188.229.33:8000/play/a1jp/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="83" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/cinepo/lgartwork/Logo.png" group-title="DIGITAL",Cinepolis Channel
 https://channels.stratusnex.workers.dev/cinepolis.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="84" tvg-name="Filmelier TV" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="DIGITAL",Filmelier TV
@@ -462,7 +462,7 @@ http://45.188.229.33:8000/play/a1im/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="135" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://181.209.38.115:8000/play/a013/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="136" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
-https://streaming.onnethn.com/PASIONES/index.m3u8
+http://45.188.229.33:8000/play/a136/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="120" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 http://45.188.229.33:8000/play/a1ea/index.m3u8
@@ -496,13 +496,13 @@ https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 http://181.209.38.115:8000/play/a02s/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="144" group-title="DIGITAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
-https://streaming.onnethn.com/HTV/index.m3u8
+http://45.188.229.33:8000/play/a0xu/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="145" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="146" group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1280px-TRACE_Latina_Logo.png",Trace Latina
 https://channels.stratusnex.workers.dev/149.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="147" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="MTV.ar",MTV
-https://streaming.onnethn.com/MTV/index.m3u8
+http://45.188.229.33:8000/play/a1ju/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="148" group-title="DIGITAL" tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" tvg-name="VM Latino",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="149" group-title="DIGITAL" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="", TELEHIT 
