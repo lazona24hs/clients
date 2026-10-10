@@ -370,9 +370,9 @@ http://45.188.229.33:8000/play/a10c/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="105" tvg-id="FX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/fx-lam.png" group-title="DIGITAL",FX
 http://181.209.38.115:8000/play/a012/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="106" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
-http://181.209.38.115:8000/play/a038/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a0xr/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="107" group-title="DIGITAL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
-http://181.209.38.115:8000/play/a030/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1ap/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="108" tvg-id="HBO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hbo-us.png" group-title="DIGITAL",HBO
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -398,9 +398,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="160" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="DIGITAL",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="DIGITAL",Sony
-http://181.209.38.115:8000/play/a016/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1b2/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="112" group-title="DIGITAL" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" tvg-id="SonyMovies.ar",Sony Movies
-http://181.209.38.115:8000/play/a017/index.m3u8?tokens&stratusnex
+http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="113" tvg-name="Sony One Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="DIGITAL",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="114" tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="DIGITAL",Space
