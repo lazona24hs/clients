@@ -564,7 +564,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="174"  tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-id="" group-title="DIGITAL", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="175" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="DIGITAL", Canal 3 Pinamar
-https://csc-tlp-edge01.sensa.com.ar/canal3/canal3.stream/playlist.m3u8
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="329" group-title="DIGITAL" tvg-logo="https://i.imgur.com/sH6zJVA.png" tvg-id="", Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="331" group-title="DIGITAL" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/images284298747758685987485761.jpg" tvg-id="SomosLaPampa.ar", Somos La Pampa
@@ -860,6 +860,9 @@ https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 http://190.7.19.206:8098/play/a0ps/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="84.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Somos Amba
 http://190.7.19.206:8098/play/a0qi/index.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="90.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Canal 4 Jujuy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w1944693033_b4128000.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.1" group-title="" tvg-logo="" tvg-id="",Test
 http://190.128.214.97:64333/play/a01y/index.m3u8
 
