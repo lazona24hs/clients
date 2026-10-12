@@ -94,11 +94,7 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 http://45.188.229.33:8000/play/a1aw/index.m3u8?tokens&stratusnex
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar" video-track="2",AR12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=34f254be5f3d6a8ab44c28b4cb2e5a4a&keyid=61635507689b4c74568928cc0f5d82d9
-https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd
+http://190.128.214.97:64333/play/a01y/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="26" group-title="DIGITAL" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -576,7 +572,21 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="335" group-title="DIGITAL" tvg-logo="https://i.imgur.com/HcbvN9A.png" tvg-id="",Canal 10 Nuevo Mundo
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10.m3u8
-
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="88.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/5X8gdCv.png" tvg-id="",TeleJunin
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/ZKSnGfw.png" tvg-id="",Canal 4 Villa Dolores
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="87.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/6sRGybG.png" tvg-id="", Canal COOP
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="86.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/7PBkvRp.png" tvg-id="", CTV Corrientes
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="85.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/3lMcBfz.png" tvg-id="", Canal 6 Crespo
+http://190.7.19.206:8098/play/a0ps/index.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="84.1" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/ufv5z0.png" tvg-id="", Somos Amba
+http://190.7.19.206:8098/play/a0qi/index.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="90.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/qB6I274.png" tvg-id="", Canal 4 Jujuy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w1944693033_b4128000.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="203" tvg-name="TV Cultura Brasil" tvg-logo="https://graph.facebook.com/tvcultura/picture?width=200&height=200" group-title="DIGITAL",TV Cultura Brasil
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="420" tvg-name="BAND" tvg-logo="https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg" group-title="DIGITAL",BAND
@@ -848,23 +858,14 @@ http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://channels.stratusnex.workers.dev/qmtv.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="88.1" group-title="DIGITAL" tvg-logo="" tvg-id="",TeleJunin
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="89.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/ZKSnGfw.png" tvg-id="",Canal 4 Villa Dolores
-https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="87.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Canal COOP
-https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="86.1" group-title="DIGITAL" tvg-logo="" tvg-id="", CTV Corrientes
-https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="85.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Canal 6 Crespo
-http://190.7.19.206:8098/play/a0ps/index.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="84.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Somos Amba
-http://190.7.19.206:8098/play/a0qi/index.m3u8
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="90.1" group-title="DIGITAL" tvg-logo="" tvg-id="", Canal 4 Jujuy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w1944693033_b4128000.m3u8
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.1" group-title="" tvg-logo="" tvg-id="",Test
-http://190.128.214.97:64333/play/a01y/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=34f254be5f3d6a8ab44c28b4cb2e5a4a&keyid=61635507689b4c74568928cc0f5d82d9
+https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd
+
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.2" group-title="" tvg-logo="" tvg-id="" parent-code="0576",AXN
 #EXTVLCOPT:http-referrer=http://bantel-cdn1.iptvperu.tv
