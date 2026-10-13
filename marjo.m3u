@@ -51,10 +51,10 @@ https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wb
 https://live.stratusnex.workers.dev/play?u=aHR0cHM6Ly9zdHJlYW0tZ3RsYy50ZWxlY2VudHJvLm5ldC5hci9obHMvY2FuYWwyNmhscy9tYWluLm0zdTg
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="14" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
-http://45.134.141.161:2200/ARG/C5N/index.m3u8
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjEzNC4xNDEuMTYxOjIyMDAvQVJHL0M1Ti9pbmRleC5tM3U4
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="15" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
-http://45.70.221.206/LN_OTT/playlist.m3u8
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjcwLjIyMS4yMDYvTE5fT1RUL3BsYXlsaXN0Lm0zdTg
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="16" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tn-todo-noticias-ar.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
@@ -74,7 +74,7 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="21" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
-http://45.70.221.206/CRONICA_OTT/playlist.m3u8
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjcwLjIyMS4yMDYvQ1JPTklDQV9PVFQvcGxheWxpc3QubTN1OA
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
@@ -91,10 +91,10 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-http://45.188.229.33:8000/play/a1aw/index.m3u8?tokens&stratusnex
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2ExYXcvaW5kZXgubTN1OD90b2tlbnMmc3RyYXR1c25leA
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/argentina-12-ar.png" tvg-id="Ar12.ar" video-track="2",AR12
-http://190.128.214.97:64333/play/a01y/index.m3u8
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzE5MC4xMjguMjE0Ljk3OjY0MzMzL3BsYXkvYTAxeS9pbmRleC5tM3U4
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="26" group-title="DIGITAL" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
