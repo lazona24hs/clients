@@ -13,36 +13,28 @@ export default {
       try {
         // Decodificamos de Base64 a texto plano
         const decodedUrl = atob(base64Param);
+
+        // Validamos que sea una URL válida
         const targetUrl = new URL(decodedUrl);
 
-        // Preparamos los headers que mandará el Worker hacia el stream original
-        const newHeaders = new Headers(request.headers);
+        // Opción A: Redirección directa (302) al enlace original
+        return Response.redirect(targetUrl.toString(), 302);
 
-        // Opcional: Si el servidor de streaming exige un Referer o User-Agent específico, podés definirlo acá:
-        // newHeaders.set('Referer', 'https://tu-sitio-web.com');
-        // newHeaders.set('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)');
-
-        // Realizamos el fetch como proxy transparente
-        const response = await fetch(targetUrl.toString(), {
-          method: request.method,
-          headers: newHeaders,
-          body: request.body,
-          redirect: 'follow'
-        });
-
-        // Devolvemos la respuesta manteniendo los headers y cors del stream original
-        return new Response(response.body, {
-          status: response.status,
-          statusText: response.statusText,
-          headers: response.headers
-        });
+        /* 
+          Nota: Si preferís que el Worker haga de proxy real (pasando el tráfico por Cloudflare 
+          en lugar de redirigir), podés descomentar el siguiente bloque y comentar la línea de arriba:
+          
+          return fetch(targetUrl.toString(), {
+            headers: request.headers
+          });
+        */
 
       } catch (err) {
-        return new Response('Error al procesar la URL o formato Base64 inválido.', { status: 400 });
+        return new Response('El formato Base64 es inválido o la URL está corrupta.', { status: 400 });
       }
     }
 
-    // Ruta por defecto
-    return new Response('Proxy M3U8 Activo. Usá /play?u=BASE64', { status: 200 });
+    // Ruta por defecto si entran a la raíz del Worker
+    return new Response('ZIPTV Proxy activo. Usá /play?u=BASE64', { status: 200 });
   },
 };
