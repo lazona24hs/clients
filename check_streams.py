@@ -3,8 +3,8 @@ import re
 import requests
 from difflib import SequenceMatcher
 
-MAIN_M3U = "canales.m3u"
-ALT_M3U = "alternativas.m3u"
+MAIN_M3U = "marjo.m3u"
+ALT_M3U = "buscar.m3u"
 TIMEOUT_SECONDS = 5
 
 def clean_name(name):
