@@ -141,7 +141,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="35" group-title="DIGITAL" tvg-logo="https://canal3salta.com.ar/src/images/logo250x250.webp" tvg-id="",Canal 3 Salta
 https://ututotv.com.ar/live/stream.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="36" tvg-id="Encuentro.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="DIGITAL",Encuentro
-http://158.172.155.130:8000/play/a00n/index.m3u8
+http://138.59.227.20:8000/play/a05s/index.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="37" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-rural-ar.png" tvg-id="CanalRural.ar",Rural
 http://190.7.19.206:8098/play/a0ma/index.m3u8
