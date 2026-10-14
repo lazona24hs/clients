@@ -404,7 +404,8 @@ http://190.128.214.97:64333/play/a03f/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="115" tvg-id="StarChannel.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/star-channel-ar.png" group-title="DIGITAL",Star Channel
 http://45.188.229.33:8000/play/a1dj/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="116" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cine-latino-us.png" tvg-id="CineLatino.ar",Cine Latino
-http://rough-dream-f561.stratusnex.workers.dev/c02k.m3u8
+https://live.stratusnex.workers.dev/play?u=YUhSMGNEb3ZMelExTGpVdU1URTRMakUxTWpvNE1EQXdMM0JzWVhrdllUQTFkQzlwYm1SbGVDNXRNM1U0
+
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="DIGITAL",Studio Universal
 http://45.188.229.33:8000/play/a0u2/index.m3u8?tokens&stratusnex
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="118" tvg-id="TCM.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/80/80/0/0/1820288007328.png" group-title="DIGITAL",TCM
