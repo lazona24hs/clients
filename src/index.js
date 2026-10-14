@@ -18,21 +18,18 @@ export default {
         const targetUrl = new URL(decodedUrl);
 
 
-        
-        // Proxy real: mantiene la URL del proxy en el navegador
-        const response = await fetch(targetUrl.toString(), {
-          method: request.method,
-          headers: request.headers,
-          redirect: "follow"
-        });
+     
+        // Opción A: Redirección directa (302) al enlace original
+        return Response.redirect(targetUrl.toString(), 302);
 
-        // Devolver la respuesta sin redireccionar al navegador
-        return new Response(response.body, {
-          status: response.status,
-          statusText: response.statusText,
-          headers: response.headers
-        });
-        
+        /* 
+          Nota: Si preferís que el Worker haga de proxy real (pasando el tráfico por Cloudflare 
+          en lugar de redirigir), podés descomentar el siguiente bloque y comentar la línea de arriba:
+          
+          return fetch(targetUrl.toString(), {
+            headers: request.headers
+          });
+        */   
 
       } catch (err) {
         return new Response('El formato Base64 es inválido o la URL está corrupta.', { status: 400 });
