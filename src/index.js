@@ -18,18 +18,18 @@ export default {
         const targetUrl = new URL(decodedUrl);
 
 
-     /*
+     
         // Opción A: Redirección directa (302) al enlace original
         return Response.redirect(targetUrl.toString(), 302);
-*/ 
+ 
          
         //  Nota: Si preferís que el Worker haga de proxy real (pasando el tráfico por Cloudflare 
          // en lugar de redirigir), podés descomentar el siguiente bloque y comentar la línea de arriba:
-          
+         /* 
           return fetch(targetUrl.toString(), {
             headers: request.headers
           });
-         
+         */
 
       } catch (err) {
         return new Response('El formato Base64 es inválido o la URL está corrupta.', { status: 400 });
