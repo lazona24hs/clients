@@ -77,7 +77,7 @@ https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjcwLjIyMS4yMDYvQ1JPTklDQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="DIGITAL" tvg-id="TelefeRosario.ar", Telefe Rosario
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" tvg-logo="https://i.imgur.com/wb3aYBe.png" group-title="DIGITAL" tvg-id="TelefeRosario.ar", Telefe Rosario
 https://zapster.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 
