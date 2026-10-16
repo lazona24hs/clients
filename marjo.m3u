@@ -21,12 +21,8 @@ https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2EwdzkvaW5kZXgubTN1OA
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="5" group-title="DIGITAL" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2EweDIvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="Dnews" tvg-name="Dnews" tvg-logo="https://yt3.googleusercontent.com/1j9Q64SuG-vANdJ91r4l-Uuy0fq93erXtVjt77Yh3SARvKhdIg4MyeFKFRWaHhSyHwRDxsb-Sw=s900-c-k-c0x00ffffff-no-rj" group-title="DIGITAL" ch-number="6" type="channel" video-track="2",Dnews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=172bb2b8fa089d9d7f6d6a1b956682c9&keyid=b5ba5c05d3eb98bb2d26ff885ac3cacc
-https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
+#EXTINF:-1 tvg-name="" group-title="DIGITAL" ch-number="6" tvg-id="CanalUniversidad.ar" tvg-logo="https://i.imgur.com/trmPKYw.png",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 
 
 
