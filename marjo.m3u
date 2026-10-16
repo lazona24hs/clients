@@ -103,8 +103,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29" group-title="DIGITAL" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="CN23.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
-http://channels.stratusnex.workers.dev/diputadostv.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="29.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="", Argentina12
+https://zapster.trapemn.tv:1936/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="30" group-title="DIGITAL" tvg-logo="https://i.imgur.com/ThZvP3q.png",TDC Firmat
