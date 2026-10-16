@@ -72,12 +72,10 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="21" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
 https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjcwLjIyMS4yMDYvQ1JPTklDQV9PVFQvcGxheWxpc3QubTN1OA
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres [ Zapster ]
+https://zapster.trapemn.tv:1936/zapster/El3HD.stream/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" tvg-logo="https://i.imgur.com/wb3aYBe.png" group-title="DIGITAL" tvg-id="TelefeRosario.ar", Telefe Rosario
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23" tvg-logo="https://i.imgur.com/wb3aYBe.png" group-title="DIGITAL" tvg-id="TelefeRosario.ar", Telefe Rosario [ Zapster ]
 https://zapster.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 
@@ -842,8 +840,11 @@ https://channels.stratusnex.workers.dev/eltrece.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="21.1" group-title="DIGITAL" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 
-#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="23.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
-http://channels.stratusnex.workers.dev/qmtv.m3u8
+#EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22.1" group-title="DIGITAL" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="0.1" group-title="" tvg-logo="" tvg-id="",Test
 https://zapster.trapemn.tv:1936/zapster-hls/ciudadmagazine.stream/playlist.m3u8
