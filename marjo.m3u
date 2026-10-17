@@ -41,7 +41,7 @@ https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfedera
 https://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="22.1" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2ExZG0vaW5kZXgubTN1OA
+https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2ExY2wvaW5kZXgubTN1OA
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="13" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-26-ar.png" tvg-id="Canal26.ar",Canal 26
 https://live.stratusnex.workers.dev/play?u=aHR0cHM6Ly9zdHJlYW0tZ3RsYy50ZWxlY2VudHJvLm5ldC5hci9obHMvY2FuYWwyNmhscy9tYWluLm0zdTg
@@ -126,7 +126,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="35" group-title="DIGITAL" tvg-logo="https://canal3salta.com.ar/src/images/logo250x250.webp" tvg-id="",Canal 3 Salta
 https://ututotv.com.ar/live/stream.m3u8
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="36" tvg-id="Encuentro.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="DIGITAL",Encuentro
-https://live.stratusnex.workers.dev/play?u=aHR0cDovLzIwMC41OS4yMTMuNjY6ODAwMC9wbGF5L2EwMHQvaW5kZXgubTN1OA
+https://live.stratusnex.workers.dev/play?u=aHR0cHM6Ly96YXBzdGVyLnRyYXBlbW4udHY6MTkzNi96YXBzdGVyLWhscy9lbmN1ZW50cm8uc3RyZWFtL3BsYXlsaXN0Lm0zdTg
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="37" group-title="DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-rural-ar.png" tvg-id="CanalRural.ar",Rural
 https://live.stratusnex.workers.dev/play?u=aHR0cDovLzIwMC41OS4yMTMuNjY6ODAwMC9wbGF5L2EwMW0vaW5kZXgubTN1OA
