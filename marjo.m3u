@@ -83,7 +83,7 @@ https://zapster.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3
 
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="24" group-title="DIGITAL" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-https://live.stratusnex.workers.dev/play?u=aHR0cDovLzQ1LjE4OC4yMjkuMzM6ODAwMC9wbGF5L2ExYXcvaW5kZXgubTN1OD90b2tlbnMmc3RyYXR1c25leA
+https://zapster.trapemn.tv:1936/Zapster/Canal9.stream/playlist.m3u8
 
 #EXTINF:-1  group-logo="https://i.imgur.com/jrACKUM.png"  ch-number="25" group-title="DIGITAL" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
